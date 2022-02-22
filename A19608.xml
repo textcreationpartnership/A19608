@@ -1,0 +1,2057 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Musica sacra to sixe voyces. Composed in the Italian tongue by Giouanni Croce. Newly Englished.</title>
+            <author>Croce, Giovanni, ca. 1557-1609.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1608</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 122 KB of XML-encoded text transcribed from 73 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19608</idno>
+            <idno type="STC">STC 6040</idno>
+            <idno type="STC">ESTC S105136</idno>
+            <idno type="EEBO-CITATION">99840866</idno>
+            <idno type="PROQUEST">99840866</idno>
+            <idno type="VID">5407</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19608)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5407)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 954:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Musica sacra to sixe voyces. Composed in the Italian tongue by Giouanni Croce. Newly Englished.</title>
+                  <author>Croce, Giovanni, ca. 1557-1609.</author>
+                  <author>R. H.</author>
+                  <author>Bembo, Francesco. Sette sonetti penitentiali. English. aut</author>
+               </titleStmt>
+               <extent>24; 24; 24; 24; 24; 24 p. : music  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Este, the assigne of William Barley,</publisher>
+                  <pubPlace>In London :</pubPlace>
+                  <date>1608.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Six partbooks. At head of title page, part 1: "Cantus"; part 2: "Altus"; part 3: "Tenor"; part 4: "Bassus"; part 5: "Quintus"; Part 6: "Sextus".</note>
+                  <note>The words are translated from "Li sette sonetti penitentiali" of Francesco Bembo, based on the penitential Psalms.</note>
+                  <note>Translator's preface signed: R.H.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Part-songs, Sacred.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:5407:1" rendition="simple:additions"/>
+                  <pb facs="tcp:5407:1"/>
+                  <p>CANTVS.</p>
+                  <p>MVSICA SACRA: TO Sixe Voyces.</p>
+                  <p>Compoſed in the Jtalian tongue BY GIOVANNI CROCE.</p>
+                  <p>Newly Engliſhed.</p>
+                  <p>IN LONDON</p>
+                  <p>PRINTED BY THOMAS ESTE, the aſsigne of William Barley. 1608.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:5407:2"/>
+                  <pb n="3" facs="tcp:5407:2"/>
+                  <head>To the vertuous Louers of <hi>Muſicke.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">T</seg>Heſe Sonnets, compoſed firſt moſt exquiſitely in Italian by <hi>S<hi rend="sup">ior.</hi> Franceſco Bembo</hi> a Gentleman of Italie; were ſo admired of <hi>Giouan. Croce,</hi> one of the moſt excellent Mu<g ref="char:EOLhyphen"/>ſitians of the world; as well for their Poeſie, as Pietie (the Subſtance of them being drawen from thoſe ſeauen nota<g ref="char:EOLhyphen"/>ble Pſalmes called Penetentials; indited by that Sweete Singer of Iſrael, inſpired of the holie Spirit) as that hee thought it worthy of his skill in Muſicke, to apply them to this Harmonie of Sixe parts; as well to honour their Author and his Compoſiti<g ref="char:EOLhyphen"/>on, as to giue a profitable Delight vnto the vertuous. And my ſelfe often obſeruing the generall applauſe giuen theſe Songs when I haue heard them ſoong, (though ſomtimes without the words) thought it would be verie gratefull to many of our Engliſh louers of Muſick, if they were tranſlated, or imitated in our tongue: the rather, becauſe through their want of vnderſtanding the Italian, they are depri<g ref="char:EOLhyphen"/>ued of a Chief part of their delight. For albeit that the verie concent of the Note may ſweetly ſtrike the outward ſence of the eare; yet it is the Dittie, which con<g ref="char:EOLhyphen"/>uayed with the Muſicke to the intellectual Soule, by the Organs of hearing, that doth touch the hart, and ſtir the affections eyther to Iocondnes, or Sadnes, Leuitie, or Grauitie, according to the nature of the Compoſition: in which reſpect (eſpeci<g ref="char:EOLhyphen"/>ally) the articulate voice of man excelleth all other voices, and Inſtruments in the world. Beſides I ſuppoſed, that the Scarcetie (not onely in our tongue, but in all other vulgars) of Muſicke in this kinde, whereby men may be edified and God glorified, would make theſe the more acceptable; and peraduenture be a motiue to ſome of our excellent Muſitians to dedicate their diuine skill to the Seruice of God, in Songs of this more Sanctified kinde In which reſpects; and for that I was en<g ref="char:EOLhyphen"/>couraged thereto by ſome, Skilfull in this Arte: I haue aduentured to publiſh theſe (otherwiſe deſtinate to priuacie) vnto the view of the world: Although I am not Ignorant that in this curious age, it is likely to run the ordinary fortune (euen of more exact labours) vpon the Shelues of ridged cenſure: But the Gentle, will winck at ſmall faults where they ſpie them: As for the Supercilious Critick if (after he haue compared them with the Originall) he diſlike them: he may pleaſe him ſelfe, and doe them all better: But doe Yee accept them with a Sèrene browe, and vſe them to the glory of God, and your Laudable and Chriſtian delight. Fare yee well.</p>
+                  <closer>
+                     <signed>Your well-willer R. H.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="sonnet">
+                  <pb n="4" facs="tcp:5407:3"/>
+                  <head>FIRST SONNET</head>
+                  <bibl>Ex Pſal. 6.</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Ord, in thy wrath reproue mee not ſeuearly,</l>
+                     <l>Nor puniſh me in thy deſeru'd diſpleaſure:</l>
+                     <l>Haue mercy on my Sinns exceeding meaſure,</l>
+                     <l>For full of feares, my Soule is vexed drearly.</l>
+                     <l>Saue it (O Lord) Almightie╌moſt Supernall,</l>
+                     <l>Saue it (alas) from the'uer-neuer Dying:</l>
+                     <l>For who in deepe Hell (and fierce Torments frying)</l>
+                     <l>Shall ſing thy praiſe, or can extoll th'Eternall?</l>
+                     <l>Long haue I Languiſht in my grieuous Sorrow's,</l>
+                     <l>My bed and boſome, with my teares I water:</l>
+                     <l>My foes Deſpight hath ploughd my face with furrows.</l>
+                     <l>But (now my Soule) let the vngodly Scatter:</l>
+                     <l>Hence yee wicked, ſith God (ſo gracious for vs)</l>
+                     <l>Hath heard my moan, and doth regard my matter.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="5" facs="tcp:5407:3"/>
+                     <head>Of 6. voc. Firſt part. CANTVS. <hi>Signor non mi riprender.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ord in thy wrath reproue me not ſeuearly, (O) Lord, Lord in thy wrath reproue me not: Lord in thy wrath re<g ref="char:EOLhyphen"/>proue me not ſeuearly: Nor puniſh me in thy deſeru'd diſpleaſure: Haue mer<g ref="char:EOLhyphen"/>cie on my Sins exceeding mea╌ſure: For full of feares, my Soule, my Soule is vex╌ed drearly. Saue it O Lord Almightie: Saue it O Lord Almightie╌moſt Supernall: Saue it alas, from th'euer-neuer-neuer Dy<g ref="char:EOLhyphen"/>ing: For who in deep Hell, and fierce Tor╌ments frying, Shall ſing thy praiſe, Shall ſing thy praiſe, or can extoll th'Eternall? or can extoll th'Eter╌nall?</p>
+                  </div>
+                  <div type="song">
+                     <pb n="6" facs="tcp:5407:4"/>
+                     <head>Of 6. voc. Second part. CANTVS. <hi>Penato ho lungamente.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ong haue I Languiſht in my grieuous Sorrow's: Long haue I Languiſht in my grieuous Sor╌row's: My Bed, and boſom, with my tear's I wa╌ter: My foes Deſpight hath plow'd my face with furrow's, My foes Deſpight hath plow'd my face, hath plow'd my face with furrow's. But now my Soule, my Soule: But now my Soule, But now my Soule let th'ungodly Scatter: Hence, hence ye wicked; Sith God ſo gratio'us for vs, Sith God ſo gratio'us for vs: Hath heard my moan, and doth regard my matter. and doth re<g ref="char:EOLhyphen"/>gard, regard my matter.</p>
+                  </div>
+               </div>
+               <div n="2" type="sonnet">
+                  <pb n="7" facs="tcp:5407:4"/>
+                  <head>SECOND SONNET</head>
+                  <bibl>Ex Pſal. 32.</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">B</seg>Leſſed are they, whoſe faults (ſo oft forbidden)</l>
+                     <l>Haue free forgiuenes, and a full remiſsion:</l>
+                     <l>And they whoſe Sinns (of Act and of Omiſsion)</l>
+                     <l>Are not Imputed, but in mercy hidden.</l>
+                     <l>Therefore my Crime I haue confeſt before thee;</l>
+                     <l>Which graciouſly (my God) thou haſt forgiuen:</l>
+                     <l>The more therefore I Laude thee (King of Heauen)</l>
+                     <l>And all thy Saints ſhall in due time adore thee.</l>
+                     <l>O thou my Refuge, and my Conſolation,</l>
+                     <l>Deliuer me my God which art Almightie:</l>
+                     <l>From Enemies that enuie my Saluation.</l>
+                     <l>A many Rods purſue the Sinner (rightly)</l>
+                     <l>But thoſe that place in thee their expectation,</l>
+                     <l>Grace ſhall embrace. Ioy yee that walk vprightly.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="8" facs="tcp:5407:5"/>
+                     <head>Of 6. voc. Firſt part. CANTVS. <hi>Beati quei.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">B</seg>Leſſed are they, whoſe faults ſo oft forbidden, Haue free forgiuenes and a full remiſsi'on: Haue free forgiuenes and full re╌miſsi'on: And a full remiſ╌ſi'on: And they whoſe Sins of Act, And they whoſe Sins, whoſe Sins of Act, and of Omiſsi'on, are not Im<g ref="char:EOLhyphen"/>puted, but in mercy, in mercy hidden. Therfore my Crime I haue confeſt before thee, Which graci'ouſly (my God) thou haſt forgiuen: The more therefore I Laude thee (King of Heau'n) And all thy Saints ſhall in due time a╌dore thee. And all thy Saints ſhall in due time adore thee. In due time adore thee adore thee.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="9" facs="tcp:5407:5"/>
+                     <head>Of 6. voc. Second part. CANTVS. <hi>Tu mio Refugio.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> Thou my Refuge, and my Conſo╌la╌ti'on, O thou my Re╌fuge, and Conſo╌la╌ti╌on, De<g ref="char:EOLhyphen"/>liuer me my God which art Almightie; Deliuer me my God, Deliuer me my God which art Almightie, From Enemies, From Enemies that enuie my Salua╌ti'on, my Sal╌uati'on. A many Rods purſue the Sinner right╌ly, But thoſe that place in thee, their Expectati'on, Grace ſhall embrace. Grace ſhall embrace. Grace ſhall embrace. Ioy yee that walk vprightly. Ioy yee that walk vprightly. vprightly. Ioy yee that walk vprightly.</p>
+                  </div>
+               </div>
+               <div n="3" type="sonnet">
+                  <pb n="10" facs="tcp:5407:6"/>
+                  <head>THIRD SONNET</head>
+                  <bibl>Ex Pſal. 38.</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Ord, in thine Anger doe no more reprooue me,</l>
+                     <l>Nor in thy Furie multiply my Sorrows;</l>
+                     <l>For in my fleaſh I Feele thy fearfull Arrows:</l>
+                     <l>Thy heauie hand doth vnto Goodnes mooue me.</l>
+                     <l>Sick, in it ſelfe my Soule doth Sigh and Languiſh:</l>
+                     <l>Becauſe my Sins ſo Wholely ouercame mee,</l>
+                     <l>Sorely afflicted, and all humbled am I;</l>
+                     <l>And in my playnt, my hart Roars out for Anguiſh.</l>
+                     <l>My Strength eu'n fail's me, and my Sight hath fled me,</l>
+                     <l>And euery one Endeauours to vndoo mee,</l>
+                     <l>But I as Deaf, the while with Dumbnes ſped me.</l>
+                     <l>In thee I hope (my GOD) Ah liſten to me:</l>
+                     <l>Ah, Leaue me not (thou that canſt beſt beſted me)</l>
+                     <l>Thou my Saluation, and Comfort ſole vnto me.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="11" facs="tcp:5407:6"/>
+                     <head>Of 6. voc. Firſt part. CANTVS. <hi>Signor nel tuo furor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ord in thine Anger doe no more reproue me: Nor in thy Furie multiplie my Sorrows: For in my fleaſh I Feele, For in my fleaſh I Feele thy fearfull Arrows: Thy heauie hand doth vnto Goodnes moue mee. Sick in it ſelfe my Soule doth Sigh, doth Sigh and Lan<g ref="char:EOLhyphen"/>guiſh: Becauſe my Sins ſo wholy ouer╌came mee: Sorely afflicted, af<g ref="char:EOLhyphen"/>flicted and all humbled am I; and all humbled am I; And in my playnt my hart Roars out, Roars out for an╌guiſh. for an╌guiſh.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="12" facs="tcp:5407:7"/>
+                     <head>Of 6 voc. Second part. CANTVS. <hi>Già la virtù mi laſcia.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>Y Strength eu'n fail's, eu'n fail's me, My Strength eu'n fail's me: And my Sight, my Sight hath fled me, fled me, hath fled me, fled me: And eu'rie one Endeauours to vn╌doo me: But I, as Deafned, the while with Dumbnes, Dumbnes ſped me. In thee I hope (my GOD) Ah, Ah liſten, to mee. Ah! Ah Leaue thou me not: Ah Leaue thou me not, Thou, my Salua╌ti'on, thou my Saluati'on, and Comfort ſole, and Comfort ſole vnto mee. and Comfort, Comfort ſole vnto me. and Comfort ſole, and Comfort ſole vnto mee.</p>
+                  </div>
+               </div>
+               <div n="4" type="sonnet">
+                  <pb n="13" facs="tcp:5407:7"/>
+                  <head>FOVRTH SONNET</head>
+                  <bibl>Ex Pſal. 51.</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">S</seg>Hew mercy Lord on mee moſt haynous Sinner,</l>
+                     <l>And mortifie my Sin ſo grieuous guiltie;</l>
+                     <l>O cleanſe me from it, Purifie me Filthy;</l>
+                     <l>For in thy ſight Lord I am onely Sinner.</l>
+                     <l>In Sin (thou know'ſt) my Sinfull mother bore mee:</l>
+                     <l>But O thou Guide vnto the heau'nly Cittie,</l>
+                     <l>Waſh, waſh my Soule in Lauer of thy Pittie,</l>
+                     <l>So ſhall no Snowe in whiteneſſe goe before mee.</l>
+                     <l>Giue me a cleane hart, an vntainted Spirit;</l>
+                     <l>And of thy Grace, and Face bereaue me neuer;</l>
+                     <l>So ſhall I more adore thy Name and feare it,</l>
+                     <l>And to thy Seruice more and more endeauour:</l>
+                     <l>Sith broken harts (as doth thy Voice auer it)</l>
+                     <l>Are th'only Sacrifice thou Ioy'ſt in euer.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="14" facs="tcp:5407:8"/>
+                     <head>Of 6. voc. Firſt part. CANTVS. <hi>Habbi di me Signor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Hew mercie Lord on me, on me, O Lord on me, moſt haynous Sinner; And mortifie my Sin, my Sin ſo grieuous guiltie: and Purifie me Filthy, and Purifie me Filthy, and Purifie me Filthy: For in thy ſight O Lord I am onely, onely Sinner. In Sin thou knoweſt my Sinfull Mother bore me: Thou Guide vnto the heau'nly Cittie, thou Guide vn<g ref="char:EOLhyphen"/>to to the heau'nly Cit╌tie: Waſh, waſh my Soule in Lauer of thy pittie; So ſhall no Snow, no Snow, So ſhall no Snow, no Snow in whitenes goe be╌fore me. in whitenes goe before mee. In whitenes goe before mee.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="15" facs="tcp:5407:8"/>
+                     <head>Of 6. voc. Second part. CANTVS. <hi>Dammi vn cor mondo</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">G</seg>Iue me a cleane hart, an vntainted Spirit: an vntainted Spi╌rit, an vntainted Spirit: And of thy Grace and Face, And of thy Grace and Face bereaue me ne╌uer: neuer: bereaue me neuer: So ſhall I more adore, So ſhall I more adore thy Name, and feare it: thy Name, and feare it: thy Name and feare it: thy Name and feare it: And to thy Seruice more and more, thy Seruice more and more, and more Endeauour: Sith broken harts as doth thy voyce auer it: Sith broken harts as doth thy voyce a╌uer it, Are th'only Sacrifice, thou Ioyeſt in E╌uer<g ref="char:punc">▪</g> thou Ioyeſt in E╌uer.</p>
+                  </div>
+               </div>
+               <div n="5" type="sonnet">
+                  <pb n="16" facs="tcp:5407:9"/>
+                  <head>FIFT SONNET</head>
+                  <bibl>Ex Pſal. 102.</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">H</seg>Arken O Lord vnto mine humble Playnings,</l>
+                     <l>Hide not thy Face for euer in thine Anger:</l>
+                     <l>My Dayes doe vade as Smoak, my hart in Langor,</l>
+                     <l>Hyes (Flyes) to thee: why Shu'nſt thou my Complaynings?</l>
+                     <l>Friends haue I none; now from me All are flying:</l>
+                     <l>In ſted of Bread I haue ben fed with Aſhes,</l>
+                     <l>My Drinck my Tears; while I haue felt the Laſhes</l>
+                     <l>Of thy fierce Wrath, for all mine often Crying.</l>
+                     <l>All Kings and Nati'ons ſhall admire thy Glory,</l>
+                     <l>When thou, the Sighs of humble Soules attendeſt;</l>
+                     <l>It ſhall be Writ in an Eternall Story.</l>
+                     <l>Ah! Leaue me not, Thou, thou that All Defendeſt,</l>
+                     <l>That madeſt All (Heau'n, Earth, and Ocean hoarie)</l>
+                     <l>That neuer didſt Begin, and neuer Endeſt.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="17" facs="tcp:5407:9"/>
+                     <head>Of 6. voc. Firſt part. CANTVS. <hi>Eſſaudiſci Signor, gli humil miei preghi.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Arken Lord vnto mine humble Play╌nings; Hide not thy face for euer in thine Anger: My Dayes doe vade, doe vade as Smoak, doe vade as Smoak, My hart in Langor, Hyes (flyes) to thee, Hyes (flyes) to thee, why Shun'ſt thou my Complaynings? Friends haue I none, Friends haue I none, now from mee All are flying: In ſtead of Bread, I haue ben fed, In ſtead of Bread, I haue ben fed with Aſhes, My Drinck my Tear's; while I haue felt the Laſhes Of thy fierce Wrath, for all mine often Cryings.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="18" facs="tcp:5407:10"/>
+                     <head>Of 6. voc. Second part. CANTVS. <hi>Sarà ogni Rè, ogni Popolo.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">A</seg>LL Kings and Nati'ons, ſhall admi'er, ad╌mi╌er thy Glo╌ry, When thou the Sighs of th'humble: When thou the Sighs of humble Soules attendeſt: It ſhall be Writ: It ſhall be Writ: It ſhall be Writ in an Eternall Story, in an Eternall Story. Ah Leaue me not thou; Thou that All Defen╌deſt, that all Defen<g ref="char:EOLhyphen"/>deſt: That madeſt All, That madeſt All, That madeſt All (Heau'n, Earth, and Oce'an and Oce'an hoarie) That neuer didſt Begin, and neuer Endeſt, and neuer En╌deſt.</p>
+                  </div>
+               </div>
+               <div n="6" type="sonnet">
+                  <pb n="19" facs="tcp:5407:10"/>
+                  <head>SIXT SONNET</head>
+                  <bibl>Ex Pſal. 102.</bibl>
+                  <lg>
+                     <l>FRom profound CENTER of my hart I cryed</l>
+                     <l>To thee O Lord, LORD let thine EARE draw neer mee,</l>
+                     <l>To note my MOVRNINGS, and quick-quickly heare mee,</l>
+                     <l>Heare my Sad GRONES, to thy Sweet GRACE applyed.</l>
+                     <l>LORD, if thou looke with RIGOVR downe into VS,</l>
+                     <l>To mark our SIN, O who ſhall then abide it?</l>
+                     <l>But, if with PARDON thou bee pleas'd to hide it</l>
+                     <l>(If MERCY thou Vouchſafe) What ſhall Vndoo VS?</l>
+                     <l>Vpon thy WORD my SOVLE hath firmly reared</l>
+                     <l>Her Tower of TRVST, there is my HOPE poſseſsed;</l>
+                     <l>With thee is MERCY, that thou maiſt bee feared;</l>
+                     <l>MERCY, for thoſe that are in SOVLE depreſsed,</l>
+                     <l>ISRAELS Redeemer, Whom thou haſt endeered</l>
+                     <l>Beecom's through thee, of SINNER, SAINT and BLESSED.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="20" facs="tcp:5407:11"/>
+                     <head>Of 6. voc. Firſt part. CANTVS. <hi>Dal profondo del core.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">F</seg>Rom Profound Center of my hart, of my hart: to thee I cri'ed, to thee I cri'ed O Lord, Lord let thine eare draw neere me, To note my mourning; and quickly heare me, and quickly heare me: Heare my Sad Grones to thy Sweet Grace applyed. to thy Sweet Grace apply'ed. Lord, if thou looke with Rigor down into vs, to mark our Sins, O who ſhall then abide it? O who ſhall then abide, abide it? But if thou be pleas'd, with pardon thou be pleas'd, bee pleas'd to hide it, (if thou Mer<g ref="char:EOLhyphen"/>cie vouchſafe) if thou Mercy vouchſafe, if thou Mercy vouchſafe, What ſhall vndoo Vs? vndoo Vs? what ſhall vndoo Vs?</p>
+                  </div>
+                  <div type="song">
+                     <pb n="21" facs="tcp:5407:11"/>
+                     <head>Of 6. voc. Second part. CANTVS. <hi>Ne la parola tua.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">V</seg>Pon thy Word my Soule, hath firmely reared her Tower of Truſt, there is my Hope poſſeſſed; for with thee, is Mercy that thou maiſt be fear'd; thou maiſt be feared: Mercy for thoſe, Mer<g ref="char:EOLhyphen"/>cy for thoſe, that are in Soule depreſſed, in Soule depreſ╌ſed. Iſ╌ra╌els Re<g ref="char:EOLhyphen"/>deemer, Whom thou haſt endeer'd, endeered, Becom's through thee, of Sinner, Saint and Bleſſed. of Sinner, Saint and Bleſſed. and Bleſſed. of Sinner, Saint, of Sinner, Saint and Bleſſed. of Sinner, Saint and Bleſſed.</p>
+                  </div>
+               </div>
+               <div n="7" type="sonnet">
+                  <pb n="22" facs="tcp:5407:12"/>
+                  <head>SEAVENTH SONNET</head>
+                  <bibl>Ex Pſal. 143.</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Iſten O LORD vnto my Proſtrate PRAYER,</l>
+                     <l>Nor into IVDGMENT with thy Seruant enter:</l>
+                     <l>For who is IVST? The foule infernall TEMPTER</l>
+                     <l>Purſues my SOVLE with Terrors of DESPAYRE.</l>
+                     <l>My hart's all inly Vext. Yet I apply'd mee</l>
+                     <l>To waigh thy Works, thy Wonders I obſerued,</l>
+                     <l>But to thy MERCY the Chiefe place reſerued?</l>
+                     <l>Then Shew my SIN, and in thy Seruice guide mee.</l>
+                     <l>Succour mee LORD, Saue mee with expedition,</l>
+                     <l>My SPIRIT fainteth: therefore mine affection,</l>
+                     <l>My MINDE, my SOVLE, I lift (with all Submiſsion)</l>
+                     <l>To thee my LORD, my GOD, and my protection:</l>
+                     <l>Draw mee from DANGER vnder thy Tuition,</l>
+                     <l>For I thy Seruant am by thine Election.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="23" facs="tcp:5407:12"/>
+                     <head>Of 6 voc. Firſt part. CANTVS. <hi>Eſſaudiſci Signor le mie.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Iſten, Liſten O Lord, Liſten, Liſten O Lord vnto my Proſtrate pray╌er: Nor into Iudgment with thy Seruant enter: For who is Iuſt? For who is Iuſt? The foule In╌fernall Tempter purſues my Soule with terrors of De╌ſpay'r: My hart's all inly vexed, My hart's all inly vexed, all inly vex╌ed. Yet I apply'd me to waigh thy Works, thy Wonders I obſer╌ued: But to thy Mercy, but to thy Mercy the Chief place reſerued: the Chief place reſer<g ref="char:EOLhyphen"/>ued: Then Shew my Sin, my Sin, Then ſhew my Sin, my Sin, Then ſhew my Sin, and in thy Seruice guide mee.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="24" facs="tcp:5407:13"/>
+                     <head>Of 6. voc. Second part. CANTVS. <hi>Socorrimi Signor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Vccour me Lord, Saue me with expediti'on, with expe<g ref="char:EOLhyphen"/>di╌ti'on, My Spirit fainteth, therefore mine af<g ref="char:EOLhyphen"/>fec╌ti'on, My Spirit fainteth, therefore mine affec╌ti'on, My Minde, my Soule, My Minde my Soule I lift with all Submiſsi'on: To thee my Lord, my God, my God and my Protec╌ti'on: and my Protecti'on: Draw me from Danger vnder thy Tu╌i╌ti'on; For I thy Seruant am, For I thy Seruant am by thine Electi'on. by thine, by thine Electi'on. by thine Elec<g ref="char:EOLhyphen"/>ti'on. </p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:5407:13"/>
+                  <p>ALTVS.</p>
+                  <p>MVSICA SACRA: TO Sixe Voyces.</p>
+                  <p>
+                     <hi>Compoſed in the Jtalian tongue</hi> BY GIOVANNI CROCE.</p>
+                  <p>
+                     <hi>Newly Engliſhed.</hi>
+                  </p>
+                  <p>IN LONDON</p>
+                  <p>PRINTED BY THOMAS ESTE, the aſsigne of William Barley. 1608.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:5407:14"/>
+                  <pb n="3" facs="tcp:5407:14"/>
+                  <head>To the vertuous Louers of <hi>Muſicke.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">T</seg>Heſe Sonnets, compoſed firſt moſt exquiſitely in Italian by <hi>S<hi rend="sup">ior.</hi> Franceſco Bembo</hi> a Gentleman of Italie; were ſo admired of <hi>Giouan. Croce,</hi> one of the moſt excellent Mu<g ref="char:EOLhyphen"/>ſitians of the world; as well for their Poeſie, as Pietie (the Subſtance of them being drawen from thoſe ſeauen nota<g ref="char:EOLhyphen"/>ble Pſalmes called Penetentials; indited by that Sweete Singer of Iſrael, inſpired of the holie Spirit) as that hee thought it worthy of his skill in Muſicke, to apply them to this Harmonie of Sixe parts; as well to honour their Author and his Compoſiti<g ref="char:EOLhyphen"/>on, as to giue a profitable Delight vnto the vertuous. And my ſelfe often obſeruing the generall applauſe giuen theſe Songs when I haue heard them ſoong, (though ſomtimes without the words) thought it would be verie gratefull to many of our Engliſh louers of Muſick, if they were tranſlated, or imitated in our tongue: the rather, becauſe through their want of vnderſtanding the Italian, they are depri<g ref="char:EOLhyphen"/>ued of a Chief part of their delight. For albeit that the verie concent of the Note may ſweetly ſtrike the outward ſence of the eare; yet it is the Dittie, which con<g ref="char:EOLhyphen"/>uayed with the Muſicke to the intellectual Soule, by the Organs of hearing, that doth touch the hart, and ſtir the affections eyther to Iocondnes, or Sadnes, Leuitie, or Grauitie, according to the nature of the Compoſition: in which reſpect (eſpeci<g ref="char:EOLhyphen"/>ally) the articulate voice of man excelleth all other voices, and Inſtruments in the world. Beſides I ſuppoſed, that the Scarcetie (not onely in our tongue, but in all other vulgars) of Muſicke in this kinde, whereby men may be edified and God glorified, would make theſe the more acceptable; and peraduenture be a motiue to ſome of our excellent Muſitians to dedicate their diuine skill to the Seruice of God, in Songs of this more Sanctified kinde. In which reſpects; and for that I was en<g ref="char:EOLhyphen"/>couraged thereto by ſome, Skilfull in this Arte: I haue aduentured to publiſh theſe (otherwiſe deſtinate to priuacie) vnto the view of the world: Although I am not Ignorant that in this curious age, it is likely to run the ordinary fortune (euen of more exact labours) vpon the Shelues of ridged cenſure: But the Gentle, will winck at ſmall faults where they ſpie them: As for the Supercilious Critick if (after he haue compared them with the Originall) he diſlike them: he may pleaſe himſelfe, and doe them all better: But doe Yee accept them with a Sèrene browe, and vſe them to the glory of God, and your Laudable and Chriſtian delight. Fare yee well.</p>
+                  <closer>
+                     <signed>Your well-willer R. H.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="sonnet">
+                  <pb n="4" facs="tcp:5407:15"/>
+                  <head>FIRST SONNET</head>
+                  <bibl>Ex Pſal. 6.</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Ord, in thy wrath reproue mee not ſeuearly,</l>
+                     <l>Nor puniſh me in thy deſeru'd diſpleaſure:</l>
+                     <l>Haue mercy on my Sinns exceeding meaſure,</l>
+                     <l>For full of feares, my Soule is vexed drearly.</l>
+                     <l>Saue it (O Lord) Almightie moſt Supernall,</l>
+                     <l>Saue it (alas) from the'uer-neuer Dying:</l>
+                     <l>For who in deepe Hell (and fierce torments frying)</l>
+                     <l>Shall ſing thy praiſe, or can extoll th'Eternall?</l>
+                     <l>Long haue I languiſht in my grieuous Sorrow's,</l>
+                     <l>My bed and boſome, with my teares I water:</l>
+                     <l>My foes deſpight hath ploughd my face with furrows.</l>
+                     <l>But (now my Soule) let the vngodly ſcatter:</l>
+                     <l>Hence yee wicked, ſith God (ſo gracious for vs)</l>
+                     <l>Hath heard my moan, and doth regard my matter.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="5" facs="tcp:5407:15"/>
+                     <head>Of 6. voc. Firſt part. ALTVS. <hi>Signor non mi riprender.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ord in thy wrath reproue me not ſeuearly, not ſe<g ref="char:EOLhyphen"/>uearly, Lord in thy wrath reproue me not ſeuearly, Nor puniſh me in thy deſeru'd diſplea╌ſure: Haue mercie, Haue mer╌cie on my ſinns exceeding meaſure: For full of feares, my Soule is vex╌ed drearly. Saue it O Lord Almightie, Saue it O Lord Almightie-moſt, ſupernall, Saue it Lord, Saue it, alas, from th'euer-neuer Dying: For who in deep Hell, and fierce tor╌ments frying, Shall ſing thy praiſe, or can extoll th'Eternall? or can extoll th'Eternall? ex╌tol th'Eter╌nall?</p>
+                  </div>
+                  <div type="song">
+                     <pb n="6" facs="tcp:5407:16"/>
+                     <head>Of 6. voc. Second part. ALTVS. <hi>Penato ho lungamente.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ong haue I Languiſht in my grieuous Sorrow's, my grie╌uous Sorrow's, My bed, and boſom, with my tear's I wa╌ter: My foes Deſpight hath plow'd my face, My foes Deſpight hath plow'd my face, My foes Deſpight, My foes Deſ<g ref="char:EOLhyphen"/>pight hath plow'd my face with furrow's. But now my Soule: But now my Soule let th'ungodly Scatter: Hence, hence ye wicked, Sith God ſo gra<g ref="char:EOLhyphen"/>tio'us for vs, Sith God ſo gratio'us, God ſo gratio'us for vs: hath heard my moan, and doth regard my matter. and doth regard, regard my matter.</p>
+                  </div>
+               </div>
+               <div n="2" type="sonnet">
+                  <pb n="7" facs="tcp:5407:16"/>
+                  <head>SECOND SONNET</head>
+                  <bibl>Ex Pſal. 32.</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">B</seg>Leſſed are they, whoſe faults (ſo oft forbidden)</l>
+                     <l>Haue free forgiuenes, and a full remiſsion:</l>
+                     <l>And they whoſe Sinns (of Act and of Omiſsion)</l>
+                     <l>Are not Imputed, but in mercy hidden.</l>
+                     <l>Therefore my Crime I haue confeſt before thee;</l>
+                     <l>Which graciouſly (my God) thou haſt forgiuen:</l>
+                     <l>The more therefore I Laude thee (King of Heauen)</l>
+                     <l>And all thy Saints ſhall in due time adore thee.</l>
+                     <l>O thou my Refuge, and my Conſolation,</l>
+                     <l>Deliuer me my God which art Almightie:</l>
+                     <l>From Enemies that enuie my Saluation.</l>
+                     <l>A many Rods purſue the Sinner (rightly)</l>
+                     <l>But thoſe that place in thee their expectation,</l>
+                     <l>Grace ſhall embrace. Ioy yee that walk vprightly.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="8" facs="tcp:5407:17"/>
+                     <head>Of 6. voc. Firſt part. ALTVS. <hi>Beati quei.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">B</seg>Leſſed are they, whoſe faults ſo oft for╌bidden, whoſe faults ſo oft for╌bid╌den, Haue free forgiuenes and full remiſsi'on: Haue free forgiuenes and a full remiſsi'on: And they whoſe Sins of Act, And they whoſe ſinns, whoſe ſinns of Act, and of Omiſsi'on are not imputed, but in mercy hidden. Therefore my crime I haue confeſt before thee, which graci'ouſly (my God) thou haſt for╌gi╌uen: The more therefore I Laude thee (King of Heau'n) And all thy Saints, thy Saints, And all thy Saints ſhall in due time: All thy Saints ſhall in due time adore thee.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="9" facs="tcp:5407:17"/>
+                     <head>Of 6. voc. Second part. ALTVS. <hi>Tu mio Refugio.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> Thou my Refuge and my Conſo╌la╌ti'on, and Conſo╌la╌ti'on, and Conſo╌la<g ref="char:EOLhyphen"/>ti'on, Deliuer me my God, Deliuer me my God, Deliuer me my God which art Almightie: Almightie: From Enemies that enuie my Saluati'on. my Sal╌uati'on. A many Rods purſue the Sinner right╌ly; But thoſe that place in thee their Expectati'on, Grace ſhall embrace. Grace ſhall embrace. Grace ſhall embrace. Ioy yee that walk vprightly. vprightly. Ioy yee that walk vprightly. Ioy yee that walk vp╌rightly.</p>
+                  </div>
+               </div>
+               <div n="3" type="sonnet">
+                  <pb n="10" facs="tcp:5407:18"/>
+                  <head>THIRD SONNET</head>
+                  <bibl>Ex Pſal. 38.</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Ord, in thine Anger doe no more reprooue me,</l>
+                     <l>Nor in thy Furie multiply my Sorrows;</l>
+                     <l>For in my fleaſh I Feele thy fearfull Arrows:</l>
+                     <l>Thy heauie hand doth vnto Goodnes mooue me.</l>
+                     <l>Sick, in it ſelfe my Soule doth Sigh and Languiſh:</l>
+                     <l>Becauſe my Sins ſo Wholely ouercame mee,</l>
+                     <l>Sorely afflicted, and all humbled am I;</l>
+                     <l>And in my playnt, my hart Roars out for Anguiſh.</l>
+                     <l>My Strength eu'n fail's me, and my Sight hath fled me,</l>
+                     <l>And euery one Endeauours to vndoo mee,</l>
+                     <l>But I, as Deaf, the while with Dumbnes ſped me.</l>
+                     <l>In thee I hope (my GOD) Ah liſten to me:</l>
+                     <l>Ah, Leaue me not (thou that canſt beſt beſted me)</l>
+                     <l>Thou my Saluation, and Comfort ſole vnto me.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="11" facs="tcp:5407:18"/>
+                     <head>Of 6. voc. Firſt part. ALTVS. <hi>Signor nel tuo furor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ord in thine Anger doe no more reproue me: Nor in thy Furie multiplie my Sor╌row's: For in my Fleaſh, I feele; For in my Fleaſh I feele thy fearfull Arrows; Thy heauie hand doth vn<g ref="char:EOLhyphen"/>to goodneſſe moue me. Sick, in it ſelfe my Soule doth Sigh and Lan<g ref="char:EOLhyphen"/>guiſh: doth Sigh and Lan╌guiſh: Becauſe my Sins ſo wholely ouer<g ref="char:EOLhyphen"/>came me: Sorely afflicted, afflicted, and all humbled am I: and all humbled am I: And in my plaint my hart Roars out, Roars out, Roars out, Roars out, for an╌guiſh. for an╌guiſh.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="12" facs="tcp:5407:19"/>
+                     <head>Of 6 voc. Second part. ALTVS. <hi>Già la virtù mi laſcia.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>Y Strength eu'n fail's, eu'n fail's me: And my Sight, my Sight hath fled me, hath fled me, fled me, hath fled me, fled me, And eu'rie one Endeauours to vn╌doo me: But I, as Deafned, the while with Dumbnes, Dumbnes ſped me. In thee I hope (my GOD) Ah liſten, liſten, Ah liſten to mee. Ah, Ah leaue thou me not: Ah leaue thou me not, Thou, my Saluati╌on: thou my Saluati<g ref="char:EOLhyphen"/>on, and Comfort ſole vnto me: and Comfort ſole: and Comfort ſole vn╌to mee: and Comfort ſole vnto mee.</p>
+                  </div>
+               </div>
+               <div n="4" type="sonnet">
+                  <pb n="13" facs="tcp:5407:19"/>
+                  <head>FOVRTH SONNET</head>
+                  <bibl>Ex Pſal. 51.</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">S</seg>Hew mercy Lord on mee moſt haynous Sinner,</l>
+                     <l>And mortifie my Sin ſo grieuous guiltie;</l>
+                     <l>O cleanſe me from it, Purifie me Filthy;</l>
+                     <l>For in thy ſight Lord I am onely Sinner.</l>
+                     <l>In Sin (thou know'ſt) my Sinfull mother bore mee:</l>
+                     <l>But O thou Guide vnto the heau'nly Cittie,</l>
+                     <l>Waſh, waſh my Soule in Lauer of thy Pittie,</l>
+                     <l>So ſhall no Snowe in whiteneſſe goe before mee.</l>
+                     <l>Giue me a cleane hart, an vntainted Spirit;</l>
+                     <l>And of thy Grace, and Face bereaue me neuer;</l>
+                     <l>So ſhall I more adore thy Name and feare it,</l>
+                     <l>And to thy Seruice more and more endeauour:</l>
+                     <l>Sith broken harts (as doth thy Voice auer it)</l>
+                     <l>Are th'only Sacrifice thou Ioy'ſt in euer.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="14" facs="tcp:5407:20"/>
+                     <head>Of 6. voc. Firſt part. ALTVS. <hi>Habbi di me Signor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Hew mercie O Lord on me, moſt haynous Sin<g ref="char:EOLhyphen"/>ner; And mortifie my Sin, my Sin ſo grieuous guil<g ref="char:EOLhyphen"/>tie: O cleanſe me from it, and Purifie me Filthy, and Purifie me, Purifie me Filthy: For in thy ſight O Lord, I am onely Sinner. In Sin thou knoweſt my Sinfull Mother bore me: But O thou Guide, thou Guide, thou Guide vnto the heau'nly, heau'nly Cittie, Waſh, waſh my Soule in Lauer of thy pittie; So ſhall no Snow, no Snow in whitenes goe before me. So ſhall no Snow, no Snow, So ſhall no Snow, no Snow in whitenes goe before me. In whitenes goe before mee.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="15" facs="tcp:5407:20"/>
+                     <head>Of 6. voc. Second part. ALTVS. <hi>Dammi vn cor mondo</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">G</seg>Iue me a cleane hart, an vntainted Spirit: an vntainted an vntainted Spirit: And of thy Grace and Face bereare me neuer: And of thy Grace and Face bereaue me neuer; So ſhall I more adore, So ſhall I more adore thy name, thy name and feare it: thy name, thy name and feare it: thy name and feare it: And to, And to thy Seruice more and more In<g ref="char:EOLhyphen"/>deauour: Sith broken harts, as doth thy voyce auer it: Sith broken harts as doth thy voyce auer it, Are th'only Sacrifice, thou Ioyeſt in E╌uer. thou Ioyeſt in euer.</p>
+                  </div>
+               </div>
+               <div n="5" type="sonnet">
+                  <pb n="16" facs="tcp:5407:21"/>
+                  <head>FIFT SONNET</head>
+                  <bibl>Ex Pſal. 102.</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">H</seg>Arken O Lord vnto mine humble Playnings,</l>
+                     <l>Hide not thy Face for euer in thine Anger:</l>
+                     <l>My Dayes doe vade as Smoak, my hart in Langor:</l>
+                     <l>Hyes (Flyes) to thee: why Shu'nſt thou my Complaynings?</l>
+                     <l>Friends haue I none; now from me All are flying:</l>
+                     <l>In ſted of Bread I haue ben fed with Aſhes,</l>
+                     <l>My Drinck my Tears; while I haue felt the Laſhes</l>
+                     <l>Of thy fierce Wrath, for all mine often Crying.</l>
+                     <l>All Kings and Nati'ons ſhall admire thy Glory,</l>
+                     <l>When thou, the Sighs of humble Soules attendeſt;</l>
+                     <l>It ſhall be Writ in an Eternall Story.</l>
+                     <l>Ah! Leaue me not, Thou, thou that All Defendeſt,</l>
+                     <l>That madeſt All; (Heau'n, Earth, and Ocean hoarie;)</l>
+                     <l>That neuer didſt Begin, and neuer Endeſt.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="17" facs="tcp:5407:21"/>
+                     <head>Of 6. voc. Firſt part. ALTVS. <hi>Eſſaudiſci Signor. gli humil miei preghi.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Arken Lord vnto mine humble Playnings; Hide not thy face for euer in thine Anger: My Dayes doe vade, doe vade as Smoak, doe vade as Smoak, My hart in Langor, Hyes (flyes) to thee, Hyes (flyes) to thee, why Shun'ſt thou my Complaynings? Friends haue I none, Friends haue I none, now from me All are flying: In ſtead of Bread, of Bread, In ſtead of Bread, I haue ben fed, I haue ben fed with A╌ſhes, My Drinck my Tear's; while I haue felt the Laſhes Of thy fierce Wrath, while I haue felt the Laſhes Of thy fierce Wrath, for all, for all mine often Cryings.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="18" facs="tcp:5407:22"/>
+                     <head>Of 6. voc. Second part. ALTVS. <hi>Sarà ogni Rè, ogni Popolo.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">A</seg>LL Kings and Nati'ons ſhall admi'er, admi╌er thy Glo╌ry, When thou the Sighs of humble Soules at<g ref="char:EOLhyphen"/>tendeſt; When thou the Sighs of humble Soules attendeſt; It ſhall be Writ in an Eternall Storie. It ſhall bee Writ, It ſhall bee Writ in an Eternall Storie. in an Eternall Story. Ah! Leaue me not thou, Thou that All De<g ref="char:EOLhyphen"/>fendeſt, that All Defendeſt, That madeſt All (Heau'n, Earth, and Oce'an) That madeſt All (Heau'n, Earth, and Oce'an hoa╌rie) That neuer didſt be<g ref="char:EOLhyphen"/>gin, and neuer Endeſt. and ne╌uer En╌deſt.</p>
+                  </div>
+               </div>
+               <div n="6" type="sonnet">
+                  <pb n="19" facs="tcp:5407:22"/>
+                  <head>SIXT SONNET</head>
+                  <bibl>Ex Pſal. 102.</bibl>
+                  <lg>
+                     <l>FRom profound CENTER of my hart I cryed</l>
+                     <l>To thee O Lord, LORD let thine EARE draw neer mee,</l>
+                     <l>To note my MOVRNINGS, and quick-quickly heare mee;</l>
+                     <l>Heare my Sad GRONES, to thy Sweet GRACE applyed.</l>
+                     <l>LORD, if thou looke with RIGOVR downe into VS,</l>
+                     <l>To mark our SIN, O who ſhall then abide it?</l>
+                     <l>But, if with PARDON thou bee pleas'd to hide it</l>
+                     <l>(If MERCY thou Vouchſafe) What ſhall Vndoo VS?</l>
+                     <l>Vpon thy WORD my SOVLE hath firmly reared</l>
+                     <l>Her Tower of TRVST, there is my HOPE poſseſsed;</l>
+                     <l>With thee is MERCY, that thou maiſt bee feared;</l>
+                     <l>MERCY, for thoſe that are in SOVLE depreſsed,</l>
+                     <l>ISRAELS Redeemer, Whom thou haſt endeered</l>
+                     <l>Beecom's through thee, of SINNER, SAINT and BLESSEDS.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="20" facs="tcp:5407:23"/>
+                     <head>Of 6. voc. Firſt part. ALTVS. <hi>Dal profondo del core.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">F</seg>Rom Profound Center of my hart, of my hart to thee I cri'ed, I cri'ed, to thee I cri'ed O Lord, Lord let thine eare draw neere me, To note my mourning, to note my mourning; and quickly heare me: and quickly heare me: Heare my Sad Groning to thy Sweet Grace, to thy Sweet Grace apply╌ed: to thy Sweet Grace applyed. Lord if thou looke with Rigor down into Vs, to mark our Sin, our Sin, O who ſhal then abide it? Who ſhal then abide it? But if with pardon thou be pleas'd to hide it, be pleas'd to hide it. (If thou Mercy vouchſafe) what ſhal vndoo Vs? what ſhal vndoo Vs? if thou Mercy vouch<g ref="char:EOLhyphen"/>ſafe, if thou Mercy vouchſafeſt, what ſhal vndoo, vndoo vs? what ſhall vn╌doo Vs?</p>
+                  </div>
+                  <div type="song">
+                     <pb n="21" facs="tcp:5407:23"/>
+                     <head>Of 6. voc. Second part. ALTVS. <hi>Ne la parola tua.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">V</seg>Pon thy Word my Soule, vpon thy Word my Soule hath firmely Rea╌red her Tower of Truſt, there is my Hope poſſeſſed; for with thee, with thee is Mercy that thou maiſt be fea<g ref="char:EOLhyphen"/>red; Mercy, for thoſe that are in Soule depreſ╌ſed, in Soule de<g ref="char:EOLhyphen"/>preſ╌ſed. Iſ╌ra╌els Redeemer, Whom thou haſt endeered, Whom thou haſt en<g ref="char:EOLhyphen"/>deered, whom thou haſt endeered, Becom's through thee, of Sinner, Saint and Bleſ<g ref="char:EOLhyphen"/>ſed. of Sinner, Saint and Bleſſed. of Sinner, Saint and Bleſſed. and Bleſſed. of Sinner, Saint and Bleſ╌ſed. of Sinner, Saint and Bleſ╌ſed.</p>
+                  </div>
+               </div>
+               <div n="7" type="sonnet">
+                  <pb n="22" facs="tcp:5407:24"/>
+                  <head>SEAVENTH SONNET</head>
+                  <bibl>Ex Pſal. 143</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Iſten O LORD vnto my Proſtrate PRAYER,</l>
+                     <l>Nor into IVDGMENT with thy Seruant enter:</l>
+                     <l>For who is IVST? The ſoule infernall TEMPTER</l>
+                     <l>Purſues my SOVLE with Terrors of DESPAYRE.</l>
+                     <l>My hart's all inly Vext. Yet I apply'd mee</l>
+                     <l>To waigh thy Works, thy Wonders I obſerued,</l>
+                     <l>But to thy MERCY the Chiefe place reſerued?</l>
+                     <l>Then Shew my SIN, and in thy Seruice guide mee.</l>
+                     <l>Succour mee LORD, Saue mee with expedition,</l>
+                     <l>My SPIRIT fainteth: therefore mine affection,</l>
+                     <l>My MINDE, my SOVLE, I lift (with all Submiſsion)</l>
+                     <l>To thee my LORD, my GOD, and my protection:</l>
+                     <l>Draw mee from DANGER vnder thy Tuition,</l>
+                     <l>For I thy Seruant am by thine Election.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="23" facs="tcp:5407:24"/>
+                     <head>Of 6 voc. Firſt part. ALTVS. <hi>Eſſaudiſci Signor le miei</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Iſten, Liſten O Lord vnto my Proſtrate prayer: vn<g ref="char:EOLhyphen"/>to my Proſtrate prayer: Nor into Iudgment with thy Seruant enter: For who, O who is Iuſt? For who, O who is Iuſt? The foule In╌fernall Tempter, The foule infernall Tempter purſues my Soule with ter<g ref="char:EOLhyphen"/>rors of Deſpay'r: My hart's all inly vexed, inly vexed. Yet I apply'd me to waigh thy works, thy wonders I obſerued: But to thy Mercy, but to thy Mercy the Chief place reſerued: the chief place reſerued: Then Shew my Sin, then ſhew my Sin, my Sin, then ſhew my Sin, and in thy Seruice guide me. thy Seruice guide mee.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="24" facs="tcp:5407:25"/>
+                     <head>Of 6. voc. Second part. ALTVS. <hi>Socorrimi Signor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Vccour me Lord, Saue me with expediti'on, with expedi<g ref="char:EOLhyphen"/>ti'on, My Spirit fainteth: therefore mine affecti'on, My Spirit fainteth, fainteth, My Spirit fainteth, fainteth: therefore mine affec╌ti'on, My Minde, my Soule I lift with all Submiſ╌ſi'on, with all Submiſsi'on, To thee my Lord, my God, my God<g ref="char:punc">▪</g> and my Protecti'on: and my Protec╌ti'on: Draw me from Danger, Draw me from Danger vnder thy Tuiti'on; For I thy Seruant am, For I thy Seruant am by thine Electi'on. by thine Elec╌ti'on.</p>
+                  </div>
+                  <trailer>FINIS</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:5407:25"/>
+                  <p>TENOR.</p>
+                  <p>MVSICA SACRA: TO Sixe Voyces.</p>
+                  <p>
+                     <hi>Compoſed in the Jtalian tongue</hi> BY GIOVANNI CROCE.</p>
+                  <p>
+                     <hi>Newly Engliſhed.</hi>
+                  </p>
+                  <p>IN LONDON</p>
+                  <p>PRINTED BY THOMAS ESTE, the aſsigne of William Barley. 1608.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:5407:26"/>
+                  <pb n="3" facs="tcp:5407:26"/>
+                  <head>To the vertuous Louers of <hi>Muſicke.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">T</seg>Heſe Sonnets, compoſed firſt moſt exquiſitely in Italian by <hi>S<hi rend="sup">ior.</hi> Franceſco Bembo</hi> a Gentleman of Italie; were ſo admired of <hi>Giouan. Croce,</hi> one of the moſt excellent Mu<g ref="char:EOLhyphen"/>ſitians of the world; as well for their Poeſie, as Pietie (the Subſtance of them being drawen from thoſe ſeauen nota<g ref="char:EOLhyphen"/>ble Pſalmes called Penetentials; indited by that Sweete Singer of Iſrael, inſpired of the holie Spirit) as that hee thought it worthy of his skill in Muſicke, to apply them to this Harmonie of Sixe parts; as well to honour their Author and his Compoſiti<g ref="char:EOLhyphen"/>on, as to giue a profitable Delight vnto the vertuous. And my ſelfe often obſeruing the generall applauſe giuen theſe Songs when I haue heard them ſoong, (though ſomtimes without the words) thought it would be verie gratefull to many of our Engliſh louers of Muſick, if they were tranſlated, or imitated in our tongue: the rather, becauſe through their want of vnderſtanding the Italian, they are depri<g ref="char:EOLhyphen"/>ued of a Chief part of their delight. For albeit that the verie concent of the Note may ſweetly ſtrike the outward ſence of the eare; yet it is the Dittie, which con<g ref="char:EOLhyphen"/>uayed with the Muſicke to the intellectual Soule, by the Organs of hearing, that doth touch the hart, and ſtir the affections eyther to Iocondnes, or Sadnes, Leuitie, or Grauitie, according to the nature of the Compoſition: in which reſpect (eſpeci<g ref="char:EOLhyphen"/>ally) the articulate voice of man excelleth all other voices, and Inſtruments in the world. Beſides I ſuppoſed, that the Scarcetie (not onely in our tongue, but in all other vulgars) of Muſicke in this kinde, whereby men may be edified and God glorified, would make theſe the more acceptable; and peraduenture be a motiue to ſome of our excellent Muſitians to dedicate their diuine skill to the Seruice of God, in Songs of this more Sanctified kinde In which reſpects; and for that I was en<g ref="char:EOLhyphen"/>couraged thereto by ſome, Skilfull in this Arte: I haue aduentured to publiſh theſe (otherwiſe deſtinate to priuacie) vnto the view of the world: Although I am not Ignorant that in this curious age, it is likely to run the ordinary fortune (euen of more exact labours) vpon the Shelues of ridged cenſure: But the Gentle, will winck at ſmall faults where they ſpie them: As for the Supercilious Critick if (after he haue compared them with the Originall) he diſlike them: he may pleaſe him ſelfe, and doe them all better: But doe Yee accept them with a Sèrene browe, and vſe them to the glory of God, and your Laudable and Chriſtian delight. Fare yee well.</p>
+                  <closer>
+                     <signed>Your well-willer R. H.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="sonnet">
+                  <pb n="4" facs="tcp:5407:27"/>
+                  <head>FIRST SONNET</head>
+                  <bibl>Ex Pſal. 6</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Ord, in thy wrath reproue mee not ſeuearly,</l>
+                     <l>Nor puniſh me in thy deſeru'd diſpleaſure:</l>
+                     <l>Haue mercy on my Sinns exceeding meaſure,</l>
+                     <l>For full of feares, my Soule is vexed drearly.</l>
+                     <l>Saue it (O Lord) Almightie-moſt Supernall,</l>
+                     <l>Saue it (alas) from the'uer-neuer Dying:</l>
+                     <l>For who in deep Hell (and fierce Torments frying)</l>
+                     <l>Shall ſing thy praiſe, or can extoll th'Eternall?</l>
+                     <l>Long haue I Languiſht in my grieuous Sorrow's,</l>
+                     <l>My Bed and boſome, with my teares I water:</l>
+                     <l>My foes Deſpight hath ploughd my face with furrows.</l>
+                     <l>But (now my Soule) let the vngodly Scatter:</l>
+                     <l>Hence yee wicked, ſith God (ſo gracious for vs).</l>
+                     <l>Hath heard my moan, and doth regard my matter.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="5" facs="tcp:5407:27"/>
+                     <head>Of 6. voc. Firſt part. TENOR. <hi>Signor non mi riprender.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ord, in thy wrath reproue me not ſeuearly, Lord in thy wrath reproue me not: Lord in thy wrath reproue me not ſeuearly, Nor puniſh me in thy deſeru'd diſpleaſure: Haue mercie on my Sins ex<g ref="char:EOLhyphen"/>ceeding mea╌ſure: For full of feares, my Soule is vex╌ed drear╌ly. Saue it O Lord Almightie moſt Supernall, Saue it O Lord Almightie: Saue it, alas, from th'euer ne╌uer Dy<g ref="char:EOLhyphen"/>ing: For who in deep Hell, and fierce Tor╌ments frying, Shall ſing thy praiſe, or can extoll th'Eternall? or can extoll, or can extoll th'Eter<g ref="char:EOLhyphen"/>nall?</p>
+                  </div>
+                  <div type="song">
+                     <pb n="6" facs="tcp:5407:28"/>
+                     <head>Of 6. voc. Second part. TENOR. <hi>Penato ho lungamente.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ong haue I Lan╌guiſht, Long haue I Languiſht in my grieuous Sor╌row's: My Bed and boſom, with my tear's I water: My foes Deſpight hath plow'd my face with furrow's: My foes Deſpight hath plow'd my face with furrow's: hath plow'd my face, hath plow'd my face with furrow's: But now my Soule, my Soule, let th'ungod<g ref="char:EOLhyphen"/>ly Scat╌ter: Hence, hence ye wicked; Sith God ſo gratio'us, Sith God ſo gratio'us; God ſo gratio'us, God ſo gracio'us for vs: Hath heard my moan, and doth regard my mat╌ter. and doth regard, regard my mat╌ter.</p>
+                  </div>
+               </div>
+               <div n="2" type="sonnet">
+                  <pb n="7" facs="tcp:5407:28"/>
+                  <head>SECOND SONNET</head>
+                  <bibl>Ex Pſal. 32</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">B</seg>Leſſed are they, whoſe faults (ſo oft forbidden)</l>
+                     <l>Haue free forgiuenes, and a full remiſsion:</l>
+                     <l>And they whoſe Sinns (of Act and of Omiſsion)</l>
+                     <l>Are not Imputed, but in mercy hidden.</l>
+                     <l>Therefore my Crime I haue confeſt before thee;</l>
+                     <l>Which graciouſly (my God) thou haſt forgiuen:</l>
+                     <l>The more therefore I Laude thee (King of Heauen)</l>
+                     <l>And all thy Saints ſhall in due time adore thee.</l>
+                     <l>O thou my Refuge, and my Conſolation,</l>
+                     <l>Deliuer me my God which art Almightie:</l>
+                     <l>From Enemies that enuie my Saluation.</l>
+                     <l>A many Rods purſue the Sinner (rightly)</l>
+                     <l>But thoſe that place in thee their expectation,</l>
+                     <l>Grace ſhall embrace. Ioy yee that walk vprightly.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="8" facs="tcp:5407:29"/>
+                     <head>Of 6. voc. Firſt part. TENOR. <hi>Beati quei.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">B</seg>Leſſed are they, whoſe faults ſo oft forbidden, whoſe faults ſo oft forbidden, Haue free forgiuenes and a full re<g ref="char:EOLhyphen"/>miſsi'on: Haue free forgiuenes, and a full remiſsi'on: And they whoſe Sins, And they whoſe Sins, whoſe Sins of Act, and of Omiſsi'on, Are not Imputed, but in mercy hidden. Therfore my Crime, Therfore my Crime I haue confeſt before thee, Which graci'ouſly (my God) thou haſt forgiuen: The more therfore I Laude, thee (King of Heau'n) And all thy Saints ſhall in due time, all thy Saints ſhall in due time, And all thy Saints ſhall in due time adore thee.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="9" facs="tcp:5407:29"/>
+                     <head>Of 6. voc. Second part. TENOR. <hi>Tu mio Refugio.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> Thou my Refuge and my Conſo╌la╌ti'on, my Conſo╌la╌ti'on, Deliuer me my God, which art Almightie: which art Almightie: From E╌ne<g ref="char:EOLhyphen"/>mies that en╌uie my Saluati'on. my Sal╌uati'on. A many Rods pur<g ref="char:EOLhyphen"/>ſue the Sin╌ner rightly; But thoſe that place in thee their Expectati'on, Grace ſhall embrace. Grace ſhall embrace. Grace ſhall embrace. Ioy yee that walk vpright<g ref="char:EOLhyphen"/>ly. vprightly. Ioy yee that walk vprightly. Ioy yee that walk vprightly.</p>
+                  </div>
+               </div>
+               <div n="3" type="sonnet">
+                  <pb n="10" facs="tcp:5407:30"/>
+                  <head>THIRD SONNET</head>
+                  <bibl>Ex Pſal. 38</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Ord, in thine Anger doe no more reprooue me,</l>
+                     <l>Nor in thy Furie multiply my Sorrows;</l>
+                     <l>For in my fleaſh I Feele thy fearfull Arrows:</l>
+                     <l>Thy heauie hand doth vnto Goodnes mooue me.</l>
+                     <l>Sick, in it ſelfe my Soule doth Sigh and Languiſh:</l>
+                     <l>Becauſe my Sins ſo Wholely ouercame mee,</l>
+                     <l>Sorely afflicted, and all humbled am I;</l>
+                     <l>And in my playnt, my hart Roars out for Anguiſh.</l>
+                     <l>My Strength eu'n fail's me, and my Sight hath fled me,</l>
+                     <l>And euery one Endeauours to vndoo mee,</l>
+                     <l>But I as Deaf, the while with Dumbnes ſped me.</l>
+                     <l>In thee I hope (my GOD) Ah liſten to me:</l>
+                     <l>Ah, Leaue me not (thou that canſt beſt beſted me)</l>
+                     <l>Thou my Saluation, and Comfort ſole vnto me.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="11" facs="tcp:5407:30"/>
+                     <head>Of 6. voc. Firſt part. TENOR. <hi>Signor nel tuo furor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ord in thine Anger doe no more reproue me: Nor in thy Furie multiplie my Sorrow's: For in my fleaſh I Feele; in my Fleaſh I feele thy fearfull Arrows; Thy heauie hand doth vnto Goodneſſe moue me. Sick, in it ſelfe my Soule doth Sigh and Languiſh; doth Sigh and Lan╌guiſh: Becauſe my Sins ſo wholely, becauſe my Sins ſo wholy ouercame mee: Sorely afflicted, afflicted, and all humbled am I: And in my plaint my hart Roars out, Roars out, Roars out, for an╌guiſh. for an╌guiſh.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="12" facs="tcp:5407:31"/>
+                     <head>Of 6 voc. Second part. TENOR. <hi>Già la virtù mi laſcia.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>Y Strength eu'n fail's, eu'n fail's me, And my Sight, my Sight hath fled me, fled me, hath fled me, fled me: And eu'rie one Endeauours, Endeauours to vndoo me: But I as Deafned, the while with Dumbnes, Dumbnes ſped me. In thee I hope (my GOD) Ah liſten, liſten to me. Ah! Ah Leaue thou me not: Ah Leaue thou me not, Thou, my Saluati'on, thou my Saluati'on, and Comfort ſole, and Comfort ſole, and Comfort ſole, and Comfort ſole vnto me, and Comfort ſole vnto me. vnto me.</p>
+                  </div>
+               </div>
+               <div n="4" type="sonnet">
+                  <pb n="13" facs="tcp:5407:31"/>
+                  <head>FOVRTH SONNET</head>
+                  <bibl>Ex Pſal. 51</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">S</seg>Hew mercy Lord on mee moſt haynous Sinner,</l>
+                     <l>And mortifie my Sin ſo grieuous guiltie;</l>
+                     <l>O cleanſe me from it, Purifie me Filthy;</l>
+                     <l>For in thy ſight Lord I am onely Sinner.</l>
+                     <l>In Sin (thou know'ſt) my Sinfull mother bore mee:</l>
+                     <l>But O thou Guide vnto the heau'nly Cittie,</l>
+                     <l>Waſh, waſh my Soule in Lauer of thy Pittie,</l>
+                     <l>So ſhall no Snowe in whiteneſſe goe before mee.</l>
+                     <l>Giue me a cleane hart, an vntainted Spirit;</l>
+                     <l>And of thy Grace, and Face bereaue me neuer;</l>
+                     <l>So ſhall I more adore thy Name and feare it,</l>
+                     <l>And to thy Seruice more and more endeauour:</l>
+                     <l>Sith broken harts (as doth thy Voice auerr it)</l>
+                     <l>Are th'only Sacrifice thou Ioy'ſt in euer.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="14" facs="tcp:5407:32"/>
+                     <head>Of 6. voc. Firſt part. TENOR. <hi>Habbi di me Signor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Hew mercie Lord on me, O Lord on me, moſt hay<g ref="char:EOLhyphen"/>nous Sinner; And mortifie my Sin, my Sin ſo grieuous guiltie: ſo grieuous guiltie: O cleanſe me from it, And Purifie me Fil╌thy, me Fil<g ref="char:EOLhyphen"/>thy, and Purifie me Filthy, me Filthy: For in thy Sight Lord I am onely, onely Sinner. In Sin thou knoweſt my Sinfull Mother bore me: Thou Guide vnto the heau'nly Cit╌tie: Waſh, O waſh my Soule in Lauer of thy pittie; So ſhall no Snow, no Snow, So ſhall no Snow in whitenes goe beefore me. So ſhall no Snow, no Snow: So ſhall no Snow, no Snow in whitenes goe before mee.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="15" facs="tcp:5407:32"/>
+                     <head>Of 6. voc. Second part. TENOR. <hi>Dammi vn cor mondo.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">G</seg>Iue me a cleane hart, an vntainted Spirit, an vntainted Spirit: And of thy Grace and Face bereaue me neuer: And of thy Grace and Face, And of thy Grace and Face be<g ref="char:EOLhyphen"/>reaue me neuer: So ſhall I more adore thy Name, and feare it: thy Name and feare it: thy Name and feare, thy Name and feare it: And to thy Seruice more and more, and more Endeauour: Are th'only Sa╌crifice thou Ioy'ſt in E╌uer. Are th'only Sacrifice thou Ioyeſt in Euer. thou Ioyeſt in Euer.</p>
+                  </div>
+               </div>
+               <div n="5" type="sonnet">
+                  <pb n="16" facs="tcp:5407:33"/>
+                  <head>FIFT SONNET</head>
+                  <bibl>Ex Pſal. 102</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">H</seg>Arken O Lord vnto mine humble Playnings,</l>
+                     <l>Hide not thy Face for euer in thine Anger:</l>
+                     <l>My Dayes doe vade as Smoak, my hart in Langor,</l>
+                     <l>Hyes (Flyes) to thee: why Shu'nſt thou my Complaynings?</l>
+                     <l>Friends haue I none; now from me All are flying:</l>
+                     <l>In ſted of Bread I haue ben fed with Aſhes,</l>
+                     <l>My Drinck my Tears; while I haue felt the Laſhes</l>
+                     <l>Of thy fierce Wrath, for all mine often Crying.</l>
+                     <l>All Kings and Nati'ons ſhall admire thy Glory,</l>
+                     <l>When thou, the Sighs of humble Soules attendeſt;</l>
+                     <l>It ſhall be Writ in an Eternall Story.</l>
+                     <l>Ah! Leaue me not, Thou, thou that All Defendeſt,</l>
+                     <l>That madeſt All (Heau'n, Earth, and Ocean hoarie)</l>
+                     <l>That neuer didſt Begin, and neuer Endeſt.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="17" facs="tcp:5407:33"/>
+                     <head>Of 6. voc. Firſt part. TENOR. <hi>Eſſaudiſci Signor, gli'humil miei preghi.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Arken Lord vnto mine humble Play╌nings, Hide not thy face for euer in thine Anger: My Dayes doe vade, doe vade as Smoak, doe vade as Smoak, My hart in Lan╌gor, Hyes (flyes) to thee, why Shun'ſt thou my Complaynings? my Complaynings? Friends haue I none, Friends haue I none, now from mee All are flying: In ſtead of Bread, I haue ben fed with Aſhes: In ſtead of Bread I haue ben fed with Aſhes: My Drinck my Tear's; While I haue felt the Laſhes, Of thy fierce Wrath, While I haue felt the Laſhes, For all, for all mine often Cryings.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="18" facs="tcp:5407:34"/>
+                     <head>Of 6. voc. Second part. TENOR. <hi>Sarà ogni Rè, ogni Popolo.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">A</seg>LL Kings and Nati'ons ſhall admi'er, admi'er thy Glo╌ry, When thou the Sighs of th'umble, When thou the Sighs of humble Soules atten╌deſt; It ſhall be Writ in an Eternall Story. It ſhall bee Writ, It ſhall bee Writ, in an Eternall Storie. in an Eternall Story. Ah! Leaue me not thou, Thou that All Defendeſt, That madeſt All, That madeſt All (Heau'n, Earth, and Oce'an, Heau'n, Earth, and Oce'an hoarie) That neuer didſt Begin, and neuer En╌deſt. and neuer Endeſt.</p>
+                  </div>
+               </div>
+               <div n="6" type="sonnet">
+                  <pb n="19" facs="tcp:5407:34"/>
+                  <head>SIXT SONNET</head>
+                  <bibl>Ex Pſal. 102</bibl>
+                  <lg>
+                     <l>FRom profound CENTER of my hart I cryed</l>
+                     <l>To thee O Lord, LORD let thine EARE draw neer mee,</l>
+                     <l>To note my MOVRNINGS, and quick-quickly heare mee;</l>
+                     <l>Heare my Sad GRONES, to thy Sweet GRACE applyed.</l>
+                     <l>LORD, if thou looke with RIGOVR downe into VS,</l>
+                     <l>To mark our SIN, O who ſhall then abide it?</l>
+                     <l>But, if with PARDON thou bee pleas'd to hide it</l>
+                     <l>(If MERCY thou Vouchſafe) What ſhall Vndoo VS?</l>
+                     <l>Vpon thy WORD my SOVLE hath firmly reared</l>
+                     <l>Her Tower of TRVST, there is my HOPE poſseſsed;</l>
+                     <l>With thee is MERCY, that thou maiſt bee feared;</l>
+                     <l>MERCY, for thoſe that are in SOVLE depreſsed.</l>
+                     <l>ISRAELS Redeemer, Whom thou haſt endeered</l>
+                     <l>Beecom's through thee, of SINNER, SAINT, and BLESSED.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="20" facs="tcp:5407:35"/>
+                     <head>Of 6. voc. Firſt part. TENOR. <hi>Dal profondo del core.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">F</seg>Rom Profound Center of my hart, to thee I cri'ed, I cri'ed: to thee I cri'ed O Lord, O Lord, Lord let thine eare draw neere mee, To note my mourning; To note my mourning; and quickly heare mee: and quickly heare mee: Heare my Sad Grones to thy Sweet Grace, To thy Sweet Grace: To thy Sweet Grace apply'ed: Lord, if thou looke with Rigor down into Vs, to mark our Sins, O who ſhall then abide it? who ſhall abide it? But if thou be pleas'd: But if with pardon thou be pleas'd to hide it, (If thou Mercy vouchſafe) what ſhall vndoo Vs? (if thou Mercy vouch<g ref="char:EOLhyphen"/>ſafe, What ſhall vndoo Vs? What ſhall vndoo Vs? What ſhall vndoo Vs?</p>
+                  </div>
+                  <div type="song">
+                     <pb n="21" facs="tcp:5407:35"/>
+                     <head>Of 6. voc. Second part. TENOR. <hi>Ne la parola tua.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">V</seg>Pon thy Word my Soule, hath firmely reared: hath firmely reared her Tower of Truſt; There is my Hope poſſeſſed; for with thee is Mercy, that thou maiſt be fea╌red; Mer<g ref="char:EOLhyphen"/>cy, for thoſe, that are depreſſed, in Soule depreſſed. Iſ╌ra╌els Redeemer, Iſ╌ra╌els Redeemer: Whom thou haſt endeered, Becom's through thee, of Sinner, Saint and Bleſſed. of Sinner, Saint and Bleſſed. of Sinner, Saint and Bleſſed. of Sinner, Saint and Bleſſed. of Sinner, Saint and Bleſſed. and Bleſſed.</p>
+                  </div>
+               </div>
+               <div n="7" type="sonnet">
+                  <pb n="22" facs="tcp:5407:36"/>
+                  <head>SEAVENTH SONNET</head>
+                  <bibl>Ex Pſal. 143</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Iſten O LORD vnto my Proſtrate PRAYER,</l>
+                     <l>Nor into IVDGMENT with thy Seruant enter:</l>
+                     <l>For who is IVST? The foule infernall TEMPTER</l>
+                     <l>Purſues my SOVLE with Terrors of DESPAYRE.</l>
+                     <l>My hart's all inly Vext. Yet I apply'd mee</l>
+                     <l>To waigh thy Works, thy Wonders I obſerued,</l>
+                     <l>But to thy MERCY the Chiefe place reſerued;</l>
+                     <l>Then Shew my SIN, and in thy Seruice guide mee.</l>
+                     <l>Succour mee LORD, Saue mee with expedition;</l>
+                     <l>My SPIRIT fainteth: therefore mine affection,</l>
+                     <l>My MINDE, my SOVLE, I lift (with all Submiſsion)</l>
+                     <l>To thee my LORD, my GOD, and my protection:</l>
+                     <l>Draw mee from DANGER vnder thy Tuition,</l>
+                     <l>For I thy Seruant am by thine Election.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="23" facs="tcp:5407:36"/>
+                     <head>Of 6 voc. Firſt part. TENOR. <hi>Eſſaudiſci Signor le mie.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Iſten, Liſten O Lord vnto my Proſtrate prayer, Proſtrate prayer, Nor into Iudgment with thy Seruant enter:For who, Ô who is Iuſt? For who, is Iuſt? The foule In╌fernall Tempter pur<g ref="char:EOLhyphen"/>ſues my Soule with terrors, with terrors of Deſpay'r. My hart's all inly vexed: My hart's all inly vexed: all inly vexed: Yet I apply'd me to waigh thy Works, thy Wonders I ob╌ſerued, But to thy Mercy, But to thy Mercy the Chief place reſer<g ref="char:EOLhyphen"/>ued: the Chief place reſerued: Then Shew my Sin, and in thy Seruice guide me. Then ſhew my Sin, Then ſhew my Sin, Then ſhew my Sin, and in thy Seruice guide me.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="24" facs="tcp:5407:37"/>
+                     <head>Of 6. voc. Second part. TENOR. <hi>Socorrimi Signor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Vccour me Lord, Saue mee, ſaue mee with expe╌di╌ti'on, with expe╌di╌ti'on, with expe╌di╌ti╌on, My Spirit fainteth, My Spirit fainteth, therefore mine affec╌ti'on, My Minde, my Soule I lift, my Minde my Soule I lift with all Submiſsi'on, To thee my Lord, my God, my God, and my Protecti'on: my God, and my Protecti'on: Draw me from Danger vnder thy Tu╌i╌ti'on; Draw me from Danger, draw me from Danger vnder thy Tu╌i╌ti'on; For I thy Seruant am, For I thy Seruant am by thine by thine Electi'on. by thine Electi'on. by thine Electi'on.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:5407:37"/>
+                  <p>QVINTVS.</p>
+                  <p>MVSICA SACRA: TO Sixe Voyces.</p>
+                  <p>
+                     <hi>Compoſed in the Jtalian tongue</hi> BY GIOVANNI CROCE.</p>
+                  <p>
+                     <hi>Newly Engliſhed.</hi>
+                  </p>
+                  <p>IN LONDON</p>
+                  <p>PRINTED BY THOMAS ESTE, the aſsigne of William Barley. 1608.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:5407:38"/>
+                  <pb n="3" facs="tcp:5407:38"/>
+                  <head>To the vertuous Louers of <hi>Muſicke.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">T</seg>Heſe Sonnets, compoſed firſt moſt exquiſitely in Italian by <hi>S<hi rend="sup">ior.</hi> Franceſco Bembo</hi> a Gentleman of Italie; were ſo admired of <hi>Giouan. Croce,</hi> one of the moſt excellent Mu<g ref="char:EOLhyphen"/>ſitians of the world; as well for their Poeſie, as Pietie (the Subſtance of them being drawen from thoſe ſeauen nota<g ref="char:EOLhyphen"/>ble Pſalmes called Penetentials; indited by that Sweete Singer of Iſrael, inſpired of the holie Spirit) as that hee thought it worthy of his skill in Muſicke, to apply them to this Harmonie of Sixe parts; as well to honour their Author and his Compoſiti<g ref="char:EOLhyphen"/>on, as to giue a profitable Delight vnto the vertuous. And my ſelfe often obſeruing the generall applauſe giuen theſe Songs when I haue heard them ſoong, (though ſomtimes without the words) thought it would be verie gratefull to many of our Engliſh louers of Muſick, if they were tranſlated, or imitated in our tongue: the rather, becauſe through their want of vnderſtanding the Italian, they are depri<g ref="char:EOLhyphen"/>ued of a Chief part of their delight. For albeit that the verie concent of the Note may ſweetly ſtrike the outward ſence of the eare; yet it is the Dittie, which con<g ref="char:EOLhyphen"/>uayed with the Muſicke to the intellectual Soule, by the Organs of hearing, that doth touch the hart, and ſtir the affections eyther to Iocondnes, or Sadnes, Leuitie, or Grauitie, according to the nature of the Compoſition: in which reſpect (eſpeci<g ref="char:EOLhyphen"/>ally) the articulate voice of man excelleth all other voices, and Inſtruments in the world. Beſides I ſuppoſed, that the Scarcetie (not onely in our tongue, but in all other vulgars) of Muſicke in this kinde, whereby men may be edified and God glorified, would make theſe the more acceptable; and peraduenture be a motiue to ſome of our excellent Muſitians to dedicate their diuine skill to the Seruice of God, in Songs of this more Sanctified kinde In which reſpects; and for that I was en<g ref="char:EOLhyphen"/>couraged thereto by ſome, Skilfull in this Arte: I haue aduentured to publiſh theſe (otherwiſe deſtinate to priuacie) vnto the view of the world: Although I am not Ignorant that in this curious age, it is likely to run the ordinary fortune (euen of more exact labours) vpon the Shelues of ridged cenſure: But the Gentle, will winck at ſmall faults where they ſpie them: As for the Supercilious Critick if (after he haue compared them with the Originall) he diſlike them: he may pleaſe him ſelfe, and doe them all better: But doe Yee accept them with a Sèrene browe, and vſe them to the glory of God, and your Laudable and Chriſtian delight. Fare yee well.</p>
+                  <closer>
+                     <signed>Your well-willer R. H.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="sonnet">
+                  <pb n="4" facs="tcp:5407:39"/>
+                  <head>FIRST SONNET</head>
+                  <bibl>Ex Pſal. 6</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Ord, in thy wrath reproue mee not ſeuearly,</l>
+                     <l>Nor puniſh me in thy deſeru'd diſpleaſure:</l>
+                     <l>Haue mercy on my Sinns exceeding meaſure,</l>
+                     <l>For full of feares, my Soule is vexed drearly.</l>
+                     <l>Saue it (O Lord) Almightie-moſt Supernall,</l>
+                     <l>Saue it (alas) from the'uer-neuer Dying:</l>
+                     <l>For who in deepe Hell (and fierce Torments frying)</l>
+                     <l>Shall ſing thy praiſe, or can extoll th'Eternall?</l>
+                     <l>Long haue I Languiſht in my grieuous Sorrow's,</l>
+                     <l>My bed and boſome, with my teares I water:</l>
+                     <l>My foes Deſpight hath ploughd my face with furrows.</l>
+                     <l>But (now my Soule) let the vngodly Scatter:</l>
+                     <l>Hence yee wicked, ſith God (ſo gracious for vs)</l>
+                     <l>Hath heard my moan, and doth regard my matter.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="5" facs="tcp:5407:39"/>
+                     <head>Of 6. voc. Firſt part. QVINTVS. <hi>Signor non mi riprender.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ord in thy wrath reproue me not ſeuearly, in thy wrath reproue me not: Lord in thy wrath reproue me not ſe<g ref="char:EOLhyphen"/>uearly: not ſeuearly: Nor puniſh me in thy deſeru'd diſplea<g ref="char:EOLhyphen"/>ſure: Haue mercie, Haue mercy on my Sins exceeding meaſure: For full of feares, my Soule, is vexed drear╌ly. Saue it O Lord Almightie: Saue it O Lord Almightie, Saue it O Lord Almightie-moſt Supernall: Saue it alas, from th'euer-neuer Dy╌ing: For who in deep Hell, deep Hell, and fierce Tor╌ments frying, Shall ſing thy praiſe, or can extoll th'Eternall? or can ex<g ref="char:EOLhyphen"/>toll th'Eternall? th'Eter╌nall?</p>
+                  </div>
+                  <div type="song">
+                     <pb n="6" facs="tcp:5407:40"/>
+                     <head>Of 6. voc. Second part. QVINTVS. <hi>Penato ho lungamente.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ong haue I Languiſht in my grieuous Sorrow's: Long haue I Languiſht in my grieuous Sorrow's: in my grieuous. Sorrow's: My Bed and boſom, with my tear's I water: My foes Deſpight, hath plow'd my face: My foes Deſpight hath plow'd my face with furrow's: My foes Deſpight hath plow'd my face with furrow's. But now my Soule, my Soule, But now my Soule let th'ungodly, th'ungodly. Seat╌ter: Hence, hence ye wic<g ref="char:EOLhyphen"/>ked; Sith God ſo gratio'us for vs, Sith God ſo gratio'us for vs: Hath heard my moan, and doth regard my matter. and doth regard, regard my matter.</p>
+                  </div>
+               </div>
+               <div n="2" type="sonnet">
+                  <pb n="7" facs="tcp:5407:40"/>
+                  <head>SECOND SONNET</head>
+                  <bibl>Ex Pſal. 32</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">B</seg>Leſſed are they, whoſe faults (ſo oft forbidden)</l>
+                     <l>Haue free forgiuenes, and a full remiſsion:</l>
+                     <l>And they whoſe Sinns (of Act and of Omiſsion)</l>
+                     <l>Are not Imputed, but in mercy hidden.</l>
+                     <l>Therefore my Crime I haue confeſt before thee;</l>
+                     <l>Which graciouſly (my God) thou haſt forgiuen:</l>
+                     <l>The more therefore I Laude thee (King of Heauen)</l>
+                     <l>And all thy Saints ſhall in due time adore thee.</l>
+                     <l>O thou my Refuge, and my Conſolation,</l>
+                     <l>Deliuer me my God which art Almightie:</l>
+                     <l>From Enemies that enuie my Saluation.</l>
+                     <l>A many Rods purſue the Sinner (rightly)</l>
+                     <l>But thoſe that place in thee their expectation,</l>
+                     <l>Grace ſhall embrace. Ioy yee that walk vprightly.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="8" facs="tcp:5407:41"/>
+                     <head>Of 6. voc. Firſt part. QVINTVS. <hi>Beati quei.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">B</seg>Leſſed are they, whoſe faults ſo oft forbid╌den, whoſe faults ſo oft forbidden, Haue free forgiuenes and full remiſsi'on: Haue free forgiuenes, and full remiſsi'on: And a full remiſsi'on: And they whoſe Sins of Act, And they whoſe Sins, whoſe Sins of Act, and of Omiſ╌ſi'on, Omiſ╌ſi'on; Are not Imputed, but in mercy hid╌den. Therfore my Crime, Therfore my Crime I haue confeſt before thee, Which graci'ouſly (my God) thou haſt forgiuen: The more therefore I Laude, I Laude thee (King of Heau'n) In due time adore thee. And all thy Saints ſhall in due time adore thee. in due time, in due time adore thee.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="9" facs="tcp:5407:41"/>
+                     <head>Of 6. voc. Second part. QVINTVS. <hi>Tu mio Refugio.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> Thou my Refuge, and my Conſo╌la╌ti'on, and my Conſo╌lati'on, De╌liuer me my God which art Almightie; De╌liuer me my God which art Almigh╌tie, From Enemies, that en╌uie my Saluati'on, my Sal╌ua╌ti'on. A many Rods purſue the Sin<g ref="char:EOLhyphen"/>ner right╌ly, But thoſe that place in thee, their Expecta╌ti'on, Grace ſhall embrace. Grace ſhall embrace. Grace ſhall embrace. Ioy yee that walk vp<g ref="char:EOLhyphen"/>rightly. Ioy yee that walk vprightly. Ioy yee that walk vprightly.</p>
+                  </div>
+               </div>
+               <div n="3" type="sonnet">
+                  <pb n="10" facs="tcp:5407:42"/>
+                  <head>THIRD SONNET</head>
+                  <bibl>Ex Pſal. 38</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Ord, in thine Anger doe no more reprooue me,</l>
+                     <l>Nor in thy Furie multiply my Sorrows;</l>
+                     <l>For in my fleaſh I Feele thy fearfull Arrows:</l>
+                     <l>Thy heauie hand doth vnto Goodnes mooue me.</l>
+                     <l>Sick, in it ſelfe my Soule doth Sigh and Languiſh:</l>
+                     <l>Becauſe my Sins ſo Wholely ouercame mee,</l>
+                     <l>Sorely afflicted, and all humbled am I;</l>
+                     <l>And in my playnt, my hart Roars out for Anguiſh.</l>
+                     <l>My Strength eu'n fail's me, and my Sight hath fled me,</l>
+                     <l>And euery one Endeauours to vndoo mee,</l>
+                     <l>But I as Deaf, the while with Dumbnes ſped me.</l>
+                     <l>In thee I hope (my GOD) Ah liſten to me:</l>
+                     <l>Ah, Leaue me not (thou that canſt beſt beſted me)</l>
+                     <l>Thou my Saluation, and Comfort ſole vnto me.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="11" facs="tcp:5407:42"/>
+                     <head>Of 6. voc. Firſt part. QVINTVS. <hi>Signor nel tuo furor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ord in thine Anger doe no more reproue me: Nor in thy Furie multiplie my Sor╌rows, multiplie my Sor╌rows: For in my fleaſh I Feele; in my Fleaſh I Feele thy fearfull Arrows: Thy heauie hand doth vnto Goodnes moue mee. Sick in it ſelfe my Soule doth Sigh, and Lan╌guiſh: Becauſe my Sins ſo wholely ouercame mee: ouer<g ref="char:EOLhyphen"/>came. me. Sorely, afflicted, afflicted, and all humbled am I; and all humbled am I; And in my playnt my hart Roars out, Roars out, Roars out, for an╌guiſh. for an╌guiſh.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="12" facs="tcp:5407:43"/>
+                     <head>Of 6 voc. Second part. QVINTVS. <hi>Già la virtù mi laſcia.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>Y Strength eu'n fail's, eu'n fail's me, And my Sight, my Sight, and my Sight, my Sight hath fled me, fled me, hath fled me, fled me: And eu'rie one Endeauours to vndoo me: But I as Deafned, the while with Dumbnes, Dumbnes ſped me In thee I hope (my GOD) Ah liſten, Ah, liſten to me. Ah liſten to mee: Ah! Ah Leaue thou me not: Ah Leaue thou me not, Thou, my Saluati'on, thou my Saluati'on, and Comfort ſole, and Comfort ſole vnto mee. and Comfort ſole, and Comfort ſole vnto mee.</p>
+                  </div>
+               </div>
+               <div n="4" type="sonnet">
+                  <pb n="13" facs="tcp:5407:43"/>
+                  <head>FOVRTH SONNET</head>
+                  <bibl>Ex Pſal. 51</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">S</seg>Hew mercy Lord on mee moſt haynous Sinner,</l>
+                     <l>And mortifie my Sin ſo grieuous guiltie;</l>
+                     <l>O cleanſe me from it, Purifie me Filthy;</l>
+                     <l>For in thy ſight Lord I am onely Sinner.</l>
+                     <l>In Sin (thou know'ſt) my Sinfull mother bore mee:</l>
+                     <l>But O thou Guide vnto the heau'nly Cittie,</l>
+                     <l>Waſh, waſh my Soule in Lauer of thy Pittie,</l>
+                     <l>So ſhall no Snowe in whiteneſſe goe before mee.</l>
+                     <l>Giue me a cleane hart, an vntainted Spirit;</l>
+                     <l>And of thy Grace, and Face bereaue me neuer;</l>
+                     <l>So ſhall I more adore thy Name and feare it,</l>
+                     <l>And to thy Seruice more and more endeauour:</l>
+                     <l>Sith broken harts (as doth thy Voice auer it)</l>
+                     <l>Are th'only Sacrifice thou Ioy'ſt in euer.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="14" facs="tcp:5407:44"/>
+                     <head>Of 6. voc. Firſt part. QNINTVS. <hi>Habbi di me Signor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Hew mercie Lord on me, O Lord on me, moſt haynous haynous Sinner; And mortifie my Sin, my Sin ſo grieuous, grieuous guiltie: O cleanſe me from it, And Puri<g ref="char:EOLhyphen"/>fie me Filthy, and Purifie me Fil╌thy, and Purifie me Filthy: For in thy Sight O Lord I am onely Sinner. In Sin thou knoweſt my Sinfull Mother. bore me: But O thou Guide vnto the heau'n╌ly Cittie: Waſh, O waſh my Soule in Lauer of thy pittie; So ſhal no Snow, no Snow, in whitenes, So ſhall no Snow, no Snow, So ſhall no Snow, no Snow in whitenes goe before me. So ſhall no Snow, no Snow in whitenes goe before mee.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="15" facs="tcp:5407:44"/>
+                     <head>Of 6. voc. Second part. QVINTVS. <hi>Dammi vn cor mondo</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">G</seg>Iue me a cleane hart, an vntainted. an vntainted Spirit: an vntainted Spirit: And of thy Grace and Face bereaue me neuer: And of thy Grace and Face bereaue me neuer: bereaue me ne<g ref="char:EOLhyphen"/>uer. So ſhall I more adore thy Name, and feare it: and feare it: thy Name and feare it: thy Name and feare it: And to thy Seruice more and more, thy Seruice more and more, and more Endeauour: Are th'only Sa╌cri<g ref="char:EOLhyphen"/>fice thou Ioyeſt in E╌uer. Are th'only Sacrifice thou Ioyeſt in E╌uer. thou Ioyeſt in E╌uer.</p>
+                  </div>
+               </div>
+               <div n="5" type="sonnet">
+                  <pb n="16" facs="tcp:5407:45"/>
+                  <head>FIFT SONNET</head>
+                  <bibl>Ex Pſal. 102</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">H</seg>Arken O Lord vnto mine humble Playnings,</l>
+                     <l>Hide not thy Face for euer in thine Anger:</l>
+                     <l>My Dayes doe vade as Smoak, my hart in Langor,</l>
+                     <l>Hyes (Flyes) to thee: why Shu'nſt thou my Complaynings?</l>
+                     <l>Friends haue I none; now from me All are flying:</l>
+                     <l>In ſted of Bread I haue ben fed with Aſhes,</l>
+                     <l>My Drinck my Tears; while I haue felt the Laſhes</l>
+                     <l>Of thy fierce Wrath, for all mine often Crying.</l>
+                     <l>All Kings and Nati'ons ſhall admire thy Glory,</l>
+                     <l>When thou, the Sighs of humble Soules attendeſt;</l>
+                     <l>It ſhall be Writ in an Eternall Story.</l>
+                     <l>Ah! Leaue me not, Thou, thou that All Defendeſt,</l>
+                     <l>That madeſt All (Heau'n, Earth, and Ocean hoarie)</l>
+                     <l>That neuer didſt Begin, and neuer Endeſt.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="17" facs="tcp:5407:45"/>
+                     <head>Of 6. voc. Firſt part. QVINTVS. <hi>Eſſaudiſci Signor, gli'humil miei preghi.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Arken Lord vnto mine humble Play╌nings; Hide not thy face for euer, in thine An╌ger: My Dayes doe vade, doe vade as Smoak, My dayes doe vade as Smoak, My hart in Lan<g ref="char:EOLhyphen"/>gor, Hyes (flyes) to thee, why Shun'ſt thou my Com╌playnings? Hyes (flyes) to thee, why Shun'ſt thou my Complaynings? Friends haue I none, now from mee All are fly╌ing: In ſtead of Bread, In ſtead of Bread, I haue ben fed I haue ben fed with Aſhes: My Drinck, my Tear's; While I haue felt the Laſhes, Of thy fierce Wrath, For all, for all mine often Cryings.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="18" facs="tcp:5407:46"/>
+                     <head>Of 6. voc. Second part. QVINTVS. <hi>Sarà ogni Rè, ogni Popolo.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">A</seg>LL Kings and Nati'ons, ſhall admi'er, ad╌mi-er thy Glo╌ry, When thou the Sighs of humble Soules attendeſt, of humble Soules, When thou the Sighs of humble Soules attendeſt; It ſhall be Writ, in an Eternall Sto╌rie; It ſhall be Writ, It ſhall be Writ, in an E<g ref="char:EOLhyphen"/>ternall Story. in an Eternall Story. Ah Leaue me not thou; Thou that All Defen╌deſt: That madeſt All, That madeſt All, That madeſt All (Heau'n, Earth, and Oce'an hoarie, hoa╌ry) That neuer didſt Begin, and neuer En╌deſt. and ne╌uer En╌deſt.</p>
+                  </div>
+               </div>
+               <div n="6" type="sonnet">
+                  <pb n="19" facs="tcp:5407:46"/>
+                  <head>SIXT SONNET</head>
+                  <bibl>Ex Pſal. 102</bibl>
+                  <lg>
+                     <l>FRom profound CENTER of my hart I cryed</l>
+                     <l>To thee O Lord, LORD let thine EARE draw neer mee,</l>
+                     <l>To note my MOVRNINGS, and quick-quickly heare mee;</l>
+                     <l>Heare my Sad GRONES, to thy Sweet GRACE applyed.</l>
+                     <l>LORD, if thou looke with RIGOVR downe into VS,</l>
+                     <l>To mark our SIN, O who ſhall then abide it?</l>
+                     <l>But, if with PARDON thou bee pleas'd to hide it</l>
+                     <l>(If MERCY thou Vouchſafe) What ſhall Vndoo VS?</l>
+                     <l>Vpon thy WORD my SOVLE hath firmly reared</l>
+                     <l>Her Tower of TRVST, there is my HOPE poſseſsed;</l>
+                     <l>With thee is MERCY, that thou maiſt bee feared;</l>
+                     <l>MERCY, for thoſe that are in SOVLE depreſsed.</l>
+                     <l>ISRAELS Redeemer, Whom thou haſt endeered</l>
+                     <l>Beecom's through thee, of SINNER, SAINT, and BLESSED.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="20" facs="tcp:5407:47"/>
+                     <head>Of 6. voc. Firſt part. QVINTVS. <hi>Dal profondo del core.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">F</seg>Rom Profound Center of my hart, to thee I cri'ed, to thee I cri'ed O Lord, O Lord, Lord let thine eare draw neere me, To note my mourning; and quickly heare me: &amp; quickly heare me: Heare my Sad Grones to thy Sweet Grace applyed. to thy Sweet Grace apply'ed. Lord, if thou looke with Rigor down into vs, to mark our Sins, O who ſhal then, O who ſhal then abide, abide it? But if thou be pleas'd, But if thou be pleas'd, But if with pardon thou bee pleas'd, bee pleas'd to hide it, (if thou Mercie vouchſafe) What ſhall vndoo Vs? (if thou Mercy vouchſafe) What ſhall vndoo Vs? What ſhall vndoo Vs? What ſhall vndoo, vndoo Vs?</p>
+                  </div>
+                  <div type="song">
+                     <pb n="21" facs="tcp:5407:47"/>
+                     <head>Of 6. voc. Second part. QVINTVS. <hi>Ne la parola tua.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">V</seg>Pon thy Word my Soule, Vpon thy Word, my Soule hath firmely reared: hath firmely reared her Tow'er of Truſt; Ther is my Hope poſſeſſed; for with thee, for with thee there is Mercy, that thou maiſt be fea╌red; Mercy, for thoſe, that are depreſſed, that are in Soule de<g ref="char:EOLhyphen"/>preſ╌ſed. Iſ╌ra╌els Redeemer, Whom thou haſt endeered, thou haſt endeered, Becom's through thee, of Sinner, Saint and Bleſſed. of Sinner, Saint and Bleſſed. of Sinner, Saint and Bleſſed. of Sinner, Saint and Bleſſed. of Sinner, Saint and Bleſſed. Saint and Bleſſed.</p>
+                  </div>
+               </div>
+               <div n="7" type="sonnet">
+                  <pb n="22" facs="tcp:5407:48"/>
+                  <head>SEAVENTH SONNET</head>
+                  <bibl>Ex Pſal. 143</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Iſten O LORD vnto my Proſtrate PRAYER,</l>
+                     <l>Nor into IVDGMENT with thy Seruant enter:</l>
+                     <l>For who is IVST? The foule infernall TEMPTER</l>
+                     <l>Purſues my SOVLE with Terrors of DESPAYRE.</l>
+                     <l>My hart's all inly Vext. Yet I apply'd mee</l>
+                     <l>To waigh thy Works, thy Wonders I obſerued,</l>
+                     <l>But to thy MERCY the Chiefe place reſerued;</l>
+                     <l>Then Shew my SIN, and in thy Seruice guide mee.</l>
+                     <l>Succour mee LORD, Saue mee with expedition;</l>
+                     <l>My SPIRIT fainteth: therefore mine affection,</l>
+                     <l>My MINDE, my SOVLE, I lift (with all Submiſsion)</l>
+                     <l>To thee my LORD, my GOD, and my protection:</l>
+                     <l>Draw mee from DANGER vnder thy Tuition,</l>
+                     <l>For I thy Seruant am by thine Election.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="23" facs="tcp:5407:48"/>
+                     <head>Of 6 voc. Firſt part. QVINTVS. <hi>Eſſaudiſci Signor le mie.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Iſten, Liſten O Lord vnto my Proſtrate prayer, my Proſtrate pray╌er, Nor in╌to Iudgment with thy Seruant en╌ter: For who, is Iuſt? For who, O who is Iuſt? The foule In╌fernall Tempter purſues my Soule with terrors, with terrors of Deſpay'r. My hart's all inly vexed, inly vexed, My hart's all inly vexed: Yet I apply'd me to waigh thy Works, thy Wonders I obſerued, But to thy Mercy, But to thy Mercy the Chief place, the Chief place reſerued: the Chief place reſerued: Then Shew my Sin, and in thy Seruice guide me. Then ſhew my Sin, ſhew my Sin, Then ſhew my Sin, my Sin, and in thy Seruice guide me.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="24" facs="tcp:5407:49"/>
+                     <head>Of 6. voc. Second part. QVINTVS. <hi>Socorrimi Signor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Vccour me Lord, Saue me, Succour me Lord, ſaue me with expe╌diti'on, with expe╌di╌ti'on, My Spirit fainteth, therfore mine affecti'on, My Spirit fainteth, therfore mine affecti'on, My Minde, my Soule I lift with all Submiſ╌ſi'on, with all Submiſsi'on, To thee my Lord, my God, my God, my God, and my Protecti'on: and my Protecti'on: Draw me from Danger vnder thy Tu╌i ╌ti'on; Draw me from Danger, Draw me from Dan<g ref="char:EOLhyphen"/>ger vnder thy Tu╌iti'on; For I thy Seruant am, For I thy Seruant am by thine Electi'on. by thine Electi'on.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:5407:49"/>
+                  <p>SEXTVS.</p>
+                  <p>MVSICA SACRA: TO Sixe Voyces.</p>
+                  <p>
+                     <hi>Compoſed in the Jtalian tongue</hi> BY GIOVANNI CROCE.</p>
+                  <p>
+                     <hi>Newly Engliſhed.</hi>
+                  </p>
+                  <p>IN LONDON</p>
+                  <p>PRINTED BY THOMAS ESTE, the aſsigne of William Barley. 1608.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:5407:50"/>
+                  <pb n="3" facs="tcp:5407:50"/>
+                  <head>To the vertuous Louers of <hi>Muſicke.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">T</seg>Heſe Sonnets, compoſed firſt moſt exquiſitely in Italian by <hi>S<hi rend="sup">ior.</hi> Franceſco Bembo</hi> a Gentleman of Italie; were ſo admired of <hi>Giouan. Croce,</hi> one of the moſt excellent Mu<g ref="char:EOLhyphen"/>ſitians of the world; as well for their Poeſie, as Pietie (the Subſtance of them being drawen from thoſe ſeauen nota<g ref="char:EOLhyphen"/>ble Pſalmes called Penetentials; indited by that Sweete Singer of Iſrael, inſpired of the holie Spirit) as that hee thought it worthy of his skill in Muſicke, to apply them to this Harmonie of Sixe parts; as well to honour their Author and his Compoſiti<g ref="char:EOLhyphen"/>on, as to giue a profitable Delight vnto the vertuous. And my ſelfe often obſeruing the generall applauſe giuen theſe Songs when I haue heard them ſoong, (though ſomtimes without the words) thought it would be verie gratefull to many of our Engliſh louers of Muſick, if they were tranſlated, or imitated in our tongue: the rather, becauſe through their want of vnderſtanding the Italian, they are depri<g ref="char:EOLhyphen"/>ued of a Chief part of their delight. For albeit that the verie concent of the Note may ſweetly ſtrike the outward ſence of the eare; yet it is the Dittie, which con<g ref="char:EOLhyphen"/>uayed with the Muſicke to the intellectual Soule, by the Organs of hearing, that doth touch the hart, and ſtir the affections eyther to Iocondnes, or Sadnes, Leuitie, or Grauitie, according to the nature of the Compoſition: in which reſpect (eſpeci<g ref="char:EOLhyphen"/>ally) the articulate voice of man excelleth all other voices, and Inſtruments in the world. Beſides I ſuppoſed, that the Scarcetie (not onely in our tongue, but in all other vulgars) of Muſicke in this kinde, whereby men may be edified and God glorified, would make theſe the more acceptable; and peraduenture be a motiue to ſome of our excellent Muſitians to dedicate their diuine skill to the Seruice of God, in Songs of this more Sanctified kinde<g ref="char:punc">▪</g> In which reſpects; and for that I was en<g ref="char:EOLhyphen"/>couraged thereto by ſome, Skilfull in this Arte: I haue aduentured to publiſh theſe (otherwiſe deſtinate to priuacie) vnto the view of the world: Although I am not Ignorant that in this curious age, it is likely to run the ordinary fortune (euen of more exact labours) vpon the Shelues of ridged cenſure: But the Gentle, will winck at ſmall faults where they ſpie them: As for the Supercilious Critick if (after he haue compared them with the Originall) he diſlike them: he may pleaſe himſelfe, and doe them all better: But doe Yee accept them with a Sèrene browe, and vſe them to the glory of God, and your Laudable and Chriſtian delight. Fare yee well.</p>
+                  <closer>
+                     <signed>Your well-willer R. H.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="sonnet">
+                  <pb n="4" facs="tcp:5407:51"/>
+                  <head>FIRST SONNET</head>
+                  <bibl>Ex Pſal. 6</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Ord, in thy wrath reproue mee not ſeuearly,</l>
+                     <l>Nor puniſh me in thy deſeru'd diſpleaſure:</l>
+                     <l>Haue mercy on my Sinns exceeding meaſure,</l>
+                     <l>For full of feares, my Soule is vexed drearly.</l>
+                     <l>Saue it (O Lord) Almightie-moſt Supernall,</l>
+                     <l>Saue it (alas) from the'uer-neuer Dying:</l>
+                     <l>For who in deepe Hell (and fierce Torments frying)</l>
+                     <l>Shall ſing thy praiſe, or can extoll th'Eternall?</l>
+                     <l>Long haue I Languiſht in my grieuous Sorrow's,</l>
+                     <l>My bed and boſome, with my teares I water:</l>
+                     <l>My foes Deſpight hath ploughd my face with furrows.</l>
+                     <l>But (now my Soule) let the vngodly Scatter:</l>
+                     <l>Hence yee wicked, ſith God (ſo gracious for vs)</l>
+                     <l>Hath heard my moan, and doth regard my matter.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="5" facs="tcp:5407:51"/>
+                     <head>Of 6. voc. Firſt part. SEXTVS. <hi>Signor non mi riprender.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ord in thy wrath reproue me not ſeuear<g ref="char:EOLhyphen"/>ly, Lord in thy wrath reproue me not ſeuearly, not ſeuearly, Nor puniſh me in thy deſeru'd diſpleaſure: Haue mercie on my Sins exceeding mea<g ref="char:EOLhyphen"/>ſure: My Sins, exceeding meaſure: For full of feares, my Soule, my Soule is vexed, is vexed drearly. Saue it O Lord Almightie, Saue it O Lord Almightie, Saue it O Lord Almightie-moſt, Supernall, Saue it, alas, from th'euer-ne<g ref="char:EOLhyphen"/>uer Dying: For who in deep Hell, deep Hell, and fierce Torments frying, Shall ſing thy praiſe, Shall ſing thy praiſe, or can extoll th'Eternall? th'Eter<g ref="char:EOLhyphen"/>nall? </p>
+                  </div>
+                  <div type="song">
+                     <pb n="6" facs="tcp:5407:52"/>
+                     <head>Of 6. voc. Second part. SEXTVS. <hi>Penato ho lungamente.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ong haue I Languiſht in my grieuous Sorrow's: Long haue I Languiſht in my grieuous Sorrow's: My Bed, and boſom, with my tear's I water: My foes Deſpight, My foes Deſpight, My foes Deſpight hath plow'd my face with fur╌row's, But now my Soule, my Soule let th'ungodly Scatter: Hence, hence ye wicked; Sith God ſo gratio'us for vs, Sith God ſo gratio'us, God ſo gratio'us for vs: Hath heard my moan, and doth regard my matter. and doth regard, my matter.</p>
+                  </div>
+               </div>
+               <div n="2" type="sonnet">
+                  <pb n="7" facs="tcp:5407:52"/>
+                  <head>SECOND SONNET</head>
+                  <bibl>Ex Pſal. 32</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">B</seg>Leſſed are they, whoſe faults (ſo oft forbidden)</l>
+                     <l>Haue free forgiuenes, and a full remiſsion:</l>
+                     <l>And they whoſe Sinns (of Act and of Omiſsion)</l>
+                     <l>Are not Imputed, but in mercy hidden.</l>
+                     <l>Therefore my Crime I haue confeſt before thee;</l>
+                     <l>Which graciouſly (my God) thou haſt forgiuen:</l>
+                     <l>The more therefore I Laude thee (King of Heauen)</l>
+                     <l>And all thy Saints ſhall in due time adore thee.</l>
+                     <l>O thou my Refuge, and my Conſolation,</l>
+                     <l>Deliuer me my God which art Almightie:</l>
+                     <l>From Enemies that enuie my Saluation.</l>
+                     <l>A many Rods purſue the Sinner (rightly)</l>
+                     <l>But thoſe that place in thee their expectation,</l>
+                     <l>Grace ſhall embrace. Ioy yee that walk vprightly.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="8" facs="tcp:5407:53"/>
+                     <head>Of 6. voc. Firſt part. SEXTVS. <hi>Beati quei.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">B</seg>Leſſed are they, whoſe faults ſo oft forbidden, Haue free forgiuenes and a full remiſsi'on: a full remiſsi'on: And a full remiſsi'on: re╌miſsi'on: And they whoſe Sins, they whoſe Sins of Act, And they whoſe Sins, whoſe Sins of Act, and of Omiſ╌ſi'on, are not Imputed, but in mercy hidden. Therfore my Crime I haue confeſt before thee, Which gra<g ref="char:EOLhyphen"/>ci'ouſly (my God) thou haſt forgiuen: The more therefore I Laude thee (King of Heau'n) thee King of Heau'n, And all thy Saints ſhall in due time a<g ref="char:EOLhyphen"/>dore thee. due time adore thee. All thy Saints ſhall in due time adore thee<g ref="char:punc">▪</g> in due time adore, adore thee.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="9" facs="tcp:5407:53"/>
+                     <head>Of 6. voc. Second part. SEXTVS. <hi>Tu mio Refugio.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> Thou my Refuge and Conſo╌la<g ref="char:EOLhyphen"/>ti'on, and my Conſo╌lati'on, Deliuer me my God, Deliuer me my God which art Almightie: From Enemies that enuie my Saluati'on. my Sal╌uati'on. A many Rods purſue the Sinner right<g ref="char:EOLhyphen"/>ly; But thoſe that place in thee their Expecta╌ti'on, Grace ſhall em<g ref="char:EOLhyphen"/>brace. Grace ſhall embrace. Grace ſhall embrace. Ioy yee that walk vprightly. Ioy yee that walk vprightly. vprightly. Ioy yee that walk vprightly.</p>
+                  </div>
+               </div>
+               <div n="3" type="sonnet">
+                  <pb n="10" facs="tcp:5407:54"/>
+                  <head>THIRD SONNET</head>
+                  <bibl>Ex Pſal. 38</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Ord, in thine Anger doe no more reprooue me,</l>
+                     <l>Nor in thy Furie multiply my Sorrows;</l>
+                     <l>For in my fleaſh I Feele thy fearfull Arrows:</l>
+                     <l>Thy heauie hand doth vnto Goodnes mooue me.</l>
+                     <l>Sick, in it ſelfe my Soule doth Sigh and Languiſh:</l>
+                     <l>Becauſe my Sins ſo Wholely ouercame mee,</l>
+                     <l>Sorely afflicted, and all humbled am I;</l>
+                     <l>And in my playnt, my hart Roars out for Anguiſh.</l>
+                     <l>My Strength eu'n fail's me, and my Sight hath fled me,</l>
+                     <l>And euery one Endeauours to vndoo mee,</l>
+                     <l>But I as Deaf, the while with Dumbnes ſped me.</l>
+                     <l>In thee I hope (my GOD) Ah liſten to me:</l>
+                     <l>Ah, Leaue me not (thou that canſt beſt beſted me)</l>
+                     <l>Thou my Saluation, and Comfort ſole vnto me.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="11" facs="tcp:5407:54"/>
+                     <head>Of 6. voc. Firſt part. SEXTVS. <hi>Signor nel tuo'furor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ord in thine Anger doe no more reproue me: Nor in thy Furie multiplie my Sorrow's, multiplie my Sorrow's: For in my Fleaſh I feele; For in my Fleaſh I feele thy fearfull Arrows; Thy hea<g ref="char:EOLhyphen"/>uie hand doth vnto Goodneſſe moue me. Sick, in it ſelfe my Soule doth Sigh and Languiſh; doth Sigh and Languiſh: and Languiſh; Becauſe my Sins ſo wholely ouercame mee: Sorely afflicted, afflicted, afflicted, and all humbled am I: And in my plaint my hart Roars╌ out, Roars out for an╌guiſh. for an╌guiſh.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="12" facs="tcp:5407:55"/>
+                     <head>Of 6 voc. Second part. SEXTVS. <hi>Già la virtù mi laſcia.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>Y Strength eu'n fail's, eu'n fail's me, And my Sight, my Sight hath fled me, fled me, hath fled me, fled me: And eu'rie one Endeauours to vn╌doo me: But I as Deafned, the while with Dumbnes, Dumbnes ſped me. In thee I hope (my GOD) Ah liſten, to mee: Ah, liſten to mee. Ah! Ah Leaue thou me not: Ah Leaue thou me not, Thou, my Salua╌ti'on, thou my Salua╌ti'on, and Comfort ſole, and Comfort ſole, and Comfort ſole, and Comfort ſole vnto mee. and Comfort ſole, and Comfort ſole vnto mee.</p>
+                  </div>
+               </div>
+               <div n="4" type="sonnet">
+                  <pb n="13" facs="tcp:5407:55"/>
+                  <head>FOVRTH SONNET</head>
+                  <bibl>Ex Pſal. 51</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">S</seg>Hew mercy Lord on mee moſt haynous Sinner,</l>
+                     <l>And mortifie my Sin ſo grieuous guiltie;</l>
+                     <l>O cleanſe me from it, Purifie me Filthy;</l>
+                     <l>For in thy ſight Lord I am onely Sinner.</l>
+                     <l>In Sin (thou know'ſt) my Sinfull mother bore mee:</l>
+                     <l>But O thou Guide vnto the heau'nly Cittie,</l>
+                     <l>Waſh, waſh my Soule in Lauer of thy Pittie,</l>
+                     <l>So ſhall no Snowe in whiteneſſe goe before mee.</l>
+                     <l>Giue me a cleane hart, an vntainted Spirit;</l>
+                     <l>And of thy Grace, and Face bereaue me neuer;</l>
+                     <l>So ſhall I more adore thy Name and feare it,</l>
+                     <l>And to thy Seruice more and more endeauour:</l>
+                     <l>Sith broken harts (as doth thy Voice auer it)</l>
+                     <l>Are th'only Sacrifice thou Ioy'ſt in euer.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="14" facs="tcp:5407:56"/>
+                     <head>Of 6. voc. Firſt part. SEXTVS. <hi>Habbi di me Signor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Hew mercie Lord on me, O Lord on me, moſt haynous Sinner; And mortifie my Sin, my Sin ſo grieuous guiltie: grieuous guiltie: And Purifie me Filthy, and Purifie me Filthy, and Purifie me Fil<g ref="char:EOLhyphen"/>thy, and Purifie me Filthy: For in thy ſight O Lord I am onely Sin<g ref="char:EOLhyphen"/>ner. In Sin thou knoweſt my Sinfull Mother bore me: But O thou Guide vnto the heau'nly the heau'nly Cittie: Waſh, waſh my Soule in Lauer of thy pittie; So ſhall no Snow, no Snow, So ſhall no Snow, no Snow, So ſhall no Snow, no Snow in whitenes goe before me. So ſhall no Snow, no Snow in white╌nes goe before mee.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="15" facs="tcp:5407:56"/>
+                     <head>Of 6. voc. Second part. SEXTVS. <hi>Dammi vn cor mondo</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">G</seg>Iue me a cleane hart, an vntainted Spirit: an vntainted an vntainted Spirit: And of thy Grace and Face, bereaue me neuer: And of thy Grace and Face bereaue me neuer: So ſhall I more adore, So ſhall I more adore thy Name, and feare it: thy Name, and feare it: thy Name and feare it: And to thy Seruice more and more, thy Seruice more and more, and more Endeauour: Sith broken harts as doth thy voyce auer it: Sith broken harts as doth thy voyce auer it, Are th'only Sacrifice, thou Ioyeſt in Euer. thou Ioyeſt in E╌uer.</p>
+                  </div>
+               </div>
+               <div n="5" type="sonnet">
+                  <pb n="16" facs="tcp:5407:57"/>
+                  <head>FIFT SONNET</head>
+                  <bibl>Ex Pſal. 102</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">H</seg>Arken O Lord vnto mine humble Playnings,</l>
+                     <l>Hide not thy Face for euer in thine Anger:</l>
+                     <l>My Dayes doe vade as Smoak, my hart in Langor,</l>
+                     <l>Hyes (Flyes) to thee: why Shu'nſt thou my Complaynings?</l>
+                     <l>Friends haue I none; now from me All are flying:</l>
+                     <l>In ſted of Bread I haue ben fed with Aſhes,</l>
+                     <l>My Drinck my Tears; while I haue felt the Laſhes</l>
+                     <l>Of thy fierce Wrath, for all mine often Crying.</l>
+                     <l>All Kings and Nati'ons ſhall admire thy Glory,</l>
+                     <l>When thou, the Sighs of humble Soules attendeſt;</l>
+                     <l>It ſhall be Writ in an Eternall Story.</l>
+                     <l>Ah! Leaue me not, Thou, thou that All Defendeſt,</l>
+                     <l>That madeſt All (Heau'n, Earth, and Ocean hoarie)</l>
+                     <l>That neuer didſt Begin, and neuer Endeſt.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="17" facs="tcp:5407:57"/>
+                     <head>Of 6. voc. Firſt part. SEXTVS. <hi>Eſſaudiſci Signor, gli'humil miei preghi.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Arken Lord vnto mine humble, mine humble Play<g ref="char:EOLhyphen"/>nings; Hide not thy face for euer, for euer, in thine Anger: My Dayes doe vade, doe vade, doe vade as Smoak, as Smoak, My hart in Lan<g ref="char:EOLhyphen"/>gor, Hyes (flyes) to thee, why Shun'ſt thou my Complay╌nings? Friends haue I none, Friends haue I none, now from mee All are fly╌ing: In ſtead of Bread, I haue ben fed with Aſhes, In ſtead of Bread, I haue ben fed with A╌ſhes, My Drinck, my Tear's; While I haue felt the Laſhes, Of thy fierce Wrath, For all mine often Cryings.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="18" facs="tcp:5407:58"/>
+                     <head>Of 6. voc. Second part. SEXTVS. <hi>Sarà ogni Rè, ogni Popolo.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">A</seg>LL Kings and Nati'ons ſhall admi'er, admi'er thy Glo╌ry, When thou the Sighs of humble Soules at<g ref="char:EOLhyphen"/>tendeſt; It ſhall be Writ, It ſhall bee Writ, It ſhall bee Writ, It ſhall be Writ in an Eternall Sto╌rie. Ah! Leaue me not thou, Thou that All Defen╌deſt, That madeſt All, That madeſt All (Heau'n, Earth, and Oce'an, and Oce'an hoarie) That neuer didſt Begin, and neuer Endeſt. and neuer Endeſt.</p>
+                  </div>
+               </div>
+               <div n="6" type="sonnet">
+                  <pb n="19" facs="tcp:5407:58"/>
+                  <head>SIXT SONNET</head>
+                  <bibl>Ex Pſal. 102</bibl>
+                  <lg>
+                     <l>FRom profound CENTER of my hart I cryed</l>
+                     <l>To thee O Lord, LORD let thine EARE draw neer mee,</l>
+                     <l>To note my MOVRNINGS, and quick-quickly heare mee;</l>
+                     <l>Heare my Sad GRONES, to thy Sweet GRACE applyed.</l>
+                     <l>LORD, if thou looke with RIGOVR downe into VS,</l>
+                     <l>To mark our SIN, O who ſhall then abide it?</l>
+                     <l>But, if with PARDON thou bee pleas'd to hide it</l>
+                     <l>(If MERCY thou Vouchſafe) What ſhall Vndoo VS?</l>
+                     <l>Vpon thy WORD my SOVLE hath firmly reared</l>
+                     <l>Her Tower of TRVST, there is my HOPE poſseſsed;</l>
+                     <l>With thee is MERCY, that thou maiſt bee feared;</l>
+                     <l>MERCY, for thoſe that are in SOVLE depreſsed,</l>
+                     <l>ISRAELS Redeemer, Whom thou haſt endeered</l>
+                     <l>Beecom's through thee, of SINNER, SAINT and BLESSED.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="20" facs="tcp:5407:59"/>
+                     <head>Of 6. voc. Firſt part. SEXTVS. <hi>Dal profondo del core.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">F</seg>Rom Profound Center of my hart, of my hart to thee I cri'ed, to thee I cri'ed O Lord, O Lord, O Lord, Lord let thine eare draw neere mee, To note my mourning; and quickly heare mee: and quickly heare mee: Heare my Sad Grones to thy Sweet Grace, ap<g ref="char:EOLhyphen"/>plyed: Lord if thou looke with Rigor down into Vs, to mark our Sins, O who ſhall then abide it? O who ſhall then abide, abide it? But if thou bee pleas'd: But if with pardon thou be pleas'd to hide it, be pleas'd to hide it (If thou Mer<g ref="char:EOLhyphen"/>cy vouchſafe, if thou Mercy vouchſafe) what ſhal vndoo Vs? (if thou Mer<g ref="char:EOLhyphen"/>cy vouchſafe, what ſhall vndoo vs? what ſhall vndoo Vs?</p>
+                  </div>
+                  <div type="song">
+                     <pb n="21" facs="tcp:5407:59"/>
+                     <head>Of 6. voc. Second part. SEXTVS. <hi>Ne la parola tua.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">V</seg>Pon thy Word my Soule, hath firmely reared: hath firmely reared her Tow'er of Truſt; there is my Hope, there is my Hope poſ╌ſeſſed; for with thee, with thee is Mercy, that thou maiſt be fea<g ref="char:EOLhyphen"/>red; Mercy for thoſe, that are in Soule depreſſed: in Soule depreſſed: Iſ╌ra╌els Redeemer, Whom thou haſt endeered, thou haſt endeered, Becom's through thee, of Sinner, Saint and Bleſſed. of Sinner, Saint and Bleſſed. of Sinner, Saint, of Sinner, Saint &amp; Bleſſed. of Sinner, Saint &amp; Bleſſed. of Sinner, Saint and Bleſſed.</p>
+                  </div>
+               </div>
+               <div n="7" type="sonnet">
+                  <pb n="22" facs="tcp:5407:60"/>
+                  <head>SEAVENTH SONNET</head>
+                  <bibl>Ex Pſal. 143</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Iſten O LORD vnto my Proſtrate PRAYER,</l>
+                     <l>Nor into IVDGMENT with thy Seruant enter:</l>
+                     <l>For who is IVST? The foule infernall TEMPTER</l>
+                     <l>Purſues my SOVLE with Terrors of DESPAYRE.</l>
+                     <l>My hart's all inly Vext. Yet I apply'd mee</l>
+                     <l>To waigh thy Works, thy Wonders I obſerued,</l>
+                     <l>But to thy MERCY the Chiefe place reſerued?</l>
+                     <l>Then Shew my SIN, and in thy Seruice guide mee.</l>
+                     <l>Succour mee LORD, Saue mee with expedition,</l>
+                     <l>My SPIRIT fainteth: therefore mine affection,</l>
+                     <l>My MINDE, my SOVLE, I lift (with all Submiſsion)</l>
+                     <l>To thee my LORD, my GOD, and my protection:</l>
+                     <l>Draw mee from DANGER vnder thy Tuition,</l>
+                     <l>For I thy Seruant am by thine Election.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="23" facs="tcp:5407:60"/>
+                     <head>Of 6 voc. Firſt part. SEXTVS. <hi>Eſſaudiſci Signor le mie.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Iſten, Liſten O Lord, Liſten, Liſten O Lord vnto my Proſtrate pray╌er: Nor into Iudgment with thy Seruant enter: For who, O who is Iuſt? The foule In╌fernall Tempter pur<g ref="char:EOLhyphen"/>ſues my Soule with terrors, terrors of Deſpay'r: My hart's all inly vexed, My hart's all inly vexed, my hart's all inly vexed, vexed. Yet I apply'd me to waigh thy Works, thy Wonders I obſer╌ued: But to thy Mercy, but to thy Mer╌cy the Chief place reſerued: the Chief place reſerued: Then Shew my Sin, my Sin, Then ſhew my Sin, Then ſhew my Sin, my Sin, and in thy Seruice guide me.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="24" facs="tcp:5407:61"/>
+                     <head>Of 6. voc. Second part. SEXTVS. <hi>Socorrimi Signor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Vccour me Lord, Saue me, ſaue me with expe<g ref="char:EOLhyphen"/>diti'on, with expe╌diti'on, My Spirit fainteth, therefore mine affec╌ti'on, My Spirit fainteth, therfore mine affecti'on, My Minde, my Soule I lift with all Submiſsi'on: with all Submiſsi'on, To thee my Lord, my God, my God and my Protecti'on: my God and my Protecti'on: Draw me from Danger vnder thy Tu╌i╌ti'on; For I thy Seruant am, For I thy Seruant am by thine Electi'on. by thine Electi'on. by thine Elec╌ti'on. E╌lecti'on.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:5407:61"/>
+                  <p>BASSVS.</p>
+                  <p>MVSICA SACRA: TO Sixe Voyces.</p>
+                  <p>
+                     <hi>Compoſed in the Jtalian tongue</hi> BY GIOVANNI CROCE.</p>
+                  <p>
+                     <hi>Newly Engliſhed.</hi>
+                  </p>
+                  <p>IN LONDON</p>
+                  <p>PRINTED BY THOMAS ESTE, the aſsigne of William Barley. 1608.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:5407:62"/>
+                  <pb n="3" facs="tcp:5407:62"/>
+                  <head>To the vertuous Louers of <hi>Muſicke.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">T</seg>Heſe Sonnets, compoſed firſt moſt exquiſitely in Italian by <hi>S<hi rend="sup">ior.</hi> Franceſco Bembo</hi> a Gentleman of Italie; were ſo admired of <hi>Giouan. Croce,</hi> one of the moſt excellent Mu<g ref="char:EOLhyphen"/>ſitians of the world; as well for their Poeſie, as Pietie (the Subſtance of them being drawen from thoſe ſeauen nota<g ref="char:EOLhyphen"/>ble Pſalmes called Penetentials; indited by that Sweete Singer of Iſrael, inſpired of the holie Spirit) as that hee thought it worthy of his skill in Muſicke, to apply them to this Harmonie of Sixe parts; as well to honour their Author and his Compoſiti<g ref="char:EOLhyphen"/>on, as to giue a profitable Delight vnto the vertuous. And my ſelfe often obſeruing the generall applauſe giuen theſe Songs when I haue heard them ſoong, (though ſomtimes without the words) thought it would be verie gratefull to many of our Engliſh louers of Muſick, if they were tranſlated, or imitated in our tongue: the rather, becauſe through their want of vnderſtanding the Italian, they are depri<g ref="char:EOLhyphen"/>ued of a Chief part of their delight. For albeit that the verie concent of the Note may ſweetly ſtrike the outward ſence of the eare; yet it is the Dittie, which con<g ref="char:EOLhyphen"/>uayed with the Muſicke to the intellectual Soule, by the Organs of hearing, that doth touch the hart, and ſtir the affections eyther to Iocondnes, or Sadnes, Leuitie, or Grauitie, according to the nature of the Compoſition: in which reſpect (eſpeci<g ref="char:EOLhyphen"/>ally) the articulate voice of man excelleth all other voices, and Inſtruments in the world. Beſides I ſuppoſed, that the Scarcetie (not onely in our tongue, but in all other vulgars) of Muſicke in this kinde, whereby men may be edified and God glorified, would make theſe the more acceptable; and peraduenture be a motiue to ſome of our excellent Muſitians to dedicate their diuine skill to the Seruice of God, in Songs of this more Sanctified kinde In which reſpects; and for that I was en<g ref="char:EOLhyphen"/>couraged thereto by ſome, Skilfull in this Arte: I haue aduentured to publiſh theſe (otherwiſe deſtinate to priuacie) vnto the view of the world: Although I am not Ignorant that in this curious age, it is likely to run the ordinary fortune (euen of more exact labours) vpon the Shelues of ridged cenſure: But the Gentle, will winck at ſmall faults where they ſpie them: As for the Supercilious Critick if (after he haue compared them with the Originall) he diſlike them: he may pleaſe him ſelfe, and doe them all better: But doe Yee accept them with a Sèrene browe, and vſe them to the glory of God, and your Laudable and Chriſtian delight. Fare yee well.</p>
+                  <closer>
+                     <signed>Your well-willer R. H.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="sonnet">
+                  <pb n="4" facs="tcp:5407:63"/>
+                  <head>FIRST SONNET</head>
+                  <bibl>Ex Pſal. 6</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Ord, in thy wrath reproue mee not ſeuearly,</l>
+                     <l>Nor puniſh me in thy deſeru'd diſpleaſure:</l>
+                     <l>Haue mercy on my Sinns exceeding meaſure,</l>
+                     <l>For full of feares, my Soule is vexed drearly.</l>
+                     <l>Saue it (O Lord) Almightie-moſt Supernall,</l>
+                     <l>Saue it (alas) from the'ùer-neuer Dying:</l>
+                     <l>For who in deep Hell (and fierce Torments frying)</l>
+                     <l>Shall ſing thy praiſe, or can extoll th'Eternall?</l>
+                     <l>Long haue I Languiſht in my grieuous Sorrow's,</l>
+                     <l>My Bed and boſome, with my teares I water:</l>
+                     <l>My foes Deſpight hath ploughd my face with furrows.</l>
+                     <l>But (now my Soule) let the vngodly Scatter:</l>
+                     <l>Hence yee wicked, ſith God (ſo gracious for vs)</l>
+                     <l>Hath heard my moan, and doth regard my matter.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="5" facs="tcp:5407:63"/>
+                     <head>Of 6. voc. Firſt part. BASSVS. <hi>Signor non mi riprender.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ord in thy wrath reproue me not ſeuearly, Lord in thy wrath reproue me not ſeuear╌ly: Nor puniſh me in thy deſeru'd diſpleaſure: Haue mercie, on my Sins exceeding meaſure: My Sins exceeding meaſure: For full of feares, my Soule, is vex╌ed drearly. Saue it O Lord Almightie-moſt Supernall: Saue it O Lord Almightie-moſt Su<g ref="char:EOLhyphen"/>pernall: Saue it alas, from th'euer-neuer Dying: For who in deep Hell, and fierce Tor╌ments frying, Shall ſing thy praiſe, or can extoll th'Eternall? or can ex<g ref="char:EOLhyphen"/>toll, ex╌toll th'Eternall?</p>
+                  </div>
+                  <div type="song">
+                     <pb n="6" facs="tcp:5407:64"/>
+                     <head>Of 6. voc. Second part. BASSVS. <hi>Penato ho lungamente.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ong haue I Languiſht in my grieuous Sorrow's: my grieuous Sorrow's: my grieuous Sorrow's: My Bed and boſom with my tear's I water: My foes Deſpight hath plow'd my, face with furrow's: My foes Deſpight hath plow'd my, face with furrow's: my face with furrow's: But now my Soule, my Soule, let th'ungod╌ly Scatter: Hence, hence ye wicked; Sith God ſo gratio'us for vs: Sith God ſo gratio'us, God ſo gratio'us for vs: Hath heard my moan, and doth regard my matter, and doth regard my matter.</p>
+                  </div>
+               </div>
+               <div n="2" type="sonnet">
+                  <pb n="7" facs="tcp:5407:64"/>
+                  <head>SECOND SONNET</head>
+                  <bibl>Ex Pſal. 32</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">B</seg>Leſſed are they, whoſe faults (ſo oft forbidden)</l>
+                     <l>Haue free forgiuenes, and a full remiſsion:</l>
+                     <l>And they whoſe Sinns (of Act and of Omiſsion)</l>
+                     <l>Are not Imputed, but in mercy hidden.</l>
+                     <l>Therefore my Crime I haue confeſt before thee;</l>
+                     <l>Which graciouſly (my God) thou haſt forgiuen:</l>
+                     <l>The more therefore I Laude thee (King of Heauen)</l>
+                     <l>And all thy Saints ſhall in due time adore thee.</l>
+                     <l>O thou my Refuge, and my Conſolation,</l>
+                     <l>Deliuer me my God which art Almightie:</l>
+                     <l>From Enemies that enuie my Saluation.</l>
+                     <l>A many Rods purſue the Sinner (rightly)</l>
+                     <l>But thoſe that place in thee their expectation,</l>
+                     <l>Grace ſhall embrace. Ioy yee that walk vprightly.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="8" facs="tcp:5407:65"/>
+                     <head>Of 6. voc. Firſt part. BASSVS. <hi>Beati quei.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">B</seg>Leſſed are they, whoſe faults ſo oft forbidden, whoſe faults ſo oft forbidden, Haue free forgiuenes and a full re<g ref="char:EOLhyphen"/>miſsi'on: Haue free forgiuenes, and a full remiſsi'on: And they whoſe Sins, whoſe Sins, of Act, and of Omiſsi'on: And of Omiſsi'on: Are not Imputed, but in mercy hidden. Therfore my Crime I haue confeſt before thee, Which graci'ouſly (my God) thou haſt forgiuen: The more therfore I Laude, thee (King of Heau'n) The more therfore I Laude thee (King of Heau'n) And all thy Saints ſhall in due time, a╌dore thee. in due time, adore thee. in due time, adore thee.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="9" facs="tcp:5407:65"/>
+                     <head>Of 6. voc. Second part. BASSVS. <hi>Tu mio Refugio.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> Thou my Refuge, and Conſola╌ti'on, and Conſo╌la╌ti'on, and Conſo╌la╌tion, De<g ref="char:EOLhyphen"/>liuer me my God which art Almightie; De╌liuer me my God which art Almigh<g ref="char:EOLhyphen"/>tie, From Enemies, that enuie my Saluati'on, my Sal╌uati'on. A many Rods purſue the Sinner rightly, But thoſe that place in thee, their Expecta<g ref="char:EOLhyphen"/>ti'on, Grace ſhall embrace. Grace ſhall embrace. Grace ſhall embrace. Ioy yee that walk vprightly. Ioy yee that walk vprightly. Ioy yee that walk vprightly.</p>
+                  </div>
+               </div>
+               <div n="3" type="sonnet">
+                  <pb n="10" facs="tcp:5407:66"/>
+                  <head>THIRD SONNET</head>
+                  <bibl>Ex Pſal. 38</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Ord, in thine Anger doe no more reprooue me,</l>
+                     <l>Nor in thy Furie multiply my Sorrows;</l>
+                     <l>For in my fleaſh I Feele thy fearfull Arrows:</l>
+                     <l>Thy heauie hand doth vnto Goodnes mooue me.</l>
+                     <l>Sick, in it ſelfe my Soule doth Sigh and Languiſh:</l>
+                     <l>Becauſe my Sins ſo Wholely ouercame mee,</l>
+                     <l>Sorely afflicted, and all humbled am I;</l>
+                     <l>And in my playnt, my hart Roars out for Anguiſh.</l>
+                     <l>My Strength eu'n fail's me, and my Sight hath fled me,</l>
+                     <l>And euery one Endeauours to vndoo mee,</l>
+                     <l>But I as Deaf, the while with Dumbnes ſped me.</l>
+                     <l>In thee I hope (my GOD) Ah liſten to me:</l>
+                     <l>Ah, Leaue me not (thou that canſt beſt beſted me)</l>
+                     <l>Thou my Saluation, and Comfort ſole vnto me.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="11" facs="tcp:5407:66"/>
+                     <head>Of 6. voc. Firſt part. BASSVS. <hi>Signor nel tuo furor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ord in thine Anger doe no more reproue me: Nor in thy Furie multiplie my Sorrows: For in my fleaſh I Feele: For in my Fleaſh I Feele thy fearfull Arrows: Thy heauie hand doth vnto Goodnes moue mee. Sick in it ſelfe my Soule doth Sigh, and Lan╌guiſh: doth Sigh and Languiſh: Becauſe my Sins ſo wholely ouercame mee. Sore<g ref="char:EOLhyphen"/>ly afflicted, afflicted, and all humbled am I; And in my playnt my hart Roars out, Roars out, Roars out for an╌guiſh. for an╌guiſh.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="12" facs="tcp:5407:67"/>
+                     <head>Of 6 voc. Second part. BASSVS. <hi>Già la virtù mi laſcia.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>Y Strength eu'n fail's, eu'n fail's me, And my Sight, my Sight hath fled me, fled me, hath fled me, fled me: And eu'rie one Endeauours, to vndoo me: But I as Deafned, the while with Dumbnes, Dumbnes ſped me. In thee I hope (my GOD) Ah liſten, Ah, liſten to me. Ah! Ah Leaue thou me not: Ah Leaue thou me not, Thou, my Saluati'on, thou my Saluati╌on, and Comfort ſole, vnto me. and Comfort ſole vn<g ref="char:EOLhyphen"/>to me. and Comfort ſole vnto me.</p>
+                  </div>
+               </div>
+               <div n="4" type="sonnet">
+                  <pb n="13" facs="tcp:5407:67"/>
+                  <head>FOVRTH SONNET</head>
+                  <bibl>Ex Pſal. 51</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">S</seg>Hew mercy Lord on mee moſt haynous Sinner,</l>
+                     <l>And mortifie my Sin ſo grieuous guiltie;</l>
+                     <l>O cleanſe me from it, Purifie me Filthy;</l>
+                     <l>For in thy ſight Lord I am onely Sinner.</l>
+                     <l>In Sin (thou know'ſt) my Sinfull mother bore mee:</l>
+                     <l>But O thou Guide vnto the heau'nly Cittie,</l>
+                     <l>Waſh, waſh my Soule in Lauer of thy Pittie,</l>
+                     <l>So ſhall no Snowe in whiteneſſe goe before mee.</l>
+                     <l>Giue me a cleane hart, an vntainted Spirit;</l>
+                     <l>And of thy Grace, and Face bereaue me neuer;</l>
+                     <l>So ſhall I more adore thy Name and feare it,</l>
+                     <l>And to thy Seruice more and more endeauour:</l>
+                     <l>Sith broken harts (as doth thy Voice auerr it)</l>
+                     <l>Are th'only Sacrifice thou Ioy'ſt in euer.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="14" facs="tcp:5407:68"/>
+                     <head>Of 6. voc. Firſt part. BASSVS. <hi>Habbi di me Signor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Hew mercie Lord on me, O Lord on me moſt haynous Sinner; And mortifie my Sin, my Sin ſo grieuous guiltie: O cleanſe me from it, And Purifie me Fil╌thy, and Purifie me Filthy, For in thy Sight O Lord I am onely Sinner. In Sin thou knoweſt my Sinfull Mother bore me: But O thou Guide vnto the heau'nly Cit╌tie: Waſh, waſh my Soule in Lauer of thy pittie; So ſhall no Snow, no Snow, in whitenes, in whitenes goe before me. So ſhall no Snow, no Snow in whitenes goe before mee.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="15" facs="tcp:5407:68"/>
+                     <head>Of 6. voc. Second part. BASSVS. <hi>Dammi vn cor mondo.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">G</seg>Iue me a cleane hart, an vntainted Spirit, an vn<g ref="char:EOLhyphen"/>tainted Spirit: And of thy Grace and Face bereaue me neuer; And of thy Grace and Face bereaue me neuer: So ſhall I more a<g ref="char:EOLhyphen"/>dore thy Name, and feare it: thy Name and feare it: thy Name, thy Name and feare it: thy Name and feare it: And to thy Seruice more and more, thy Seruice more and more Endeauour: Are th'only Sa╌crifice thou Ioy'ſt in Euer. Are th'only Sacrifice thou Ioyeſt in Euer. thou Ioyeſt in Euer.</p>
+                  </div>
+               </div>
+               <div n="5" type="sonnet">
+                  <pb n="16" facs="tcp:5407:69"/>
+                  <head>FIFT SONNET</head>
+                  <bibl>Ex Pſal. 102</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">H</seg>Arken O Lord vnto mine humble Playnings,</l>
+                     <l>Hide not thy Face for euer in thine Anger:</l>
+                     <l>My Dayes doe vade as Smoak, my hart in Langor,</l>
+                     <l>Hyes (Flyes) to thee: why Shu'nſt thou my Complaynings?</l>
+                     <l>Friends haue I none; now from me All are flying:</l>
+                     <l>In ſted of Bread I haue ben fed with Aſhes,</l>
+                     <l>My Drinck my Tears; while I haue felt the Laſhes</l>
+                     <l>Of thy fierce Wrath, for all mine often Crying.</l>
+                     <l>All Kings and Nati'ons ſhall admire thy Glory,</l>
+                     <l>When thou, the Sighs of humble Soules attendeſt;</l>
+                     <l>It ſhall be Writ in an Eternall Story.</l>
+                     <l>Ah! Leaue me not, Thou, thou that All Defendeſt,</l>
+                     <l>That madeſt All (Heau'n, Earth, and Ocean hoarie)</l>
+                     <l>That neuer didſt Begin, and neuer Endeſt.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="17" facs="tcp:5407:69"/>
+                     <head>Of 6. voc. Firſt part. BASSVS. <hi>Eſſaudiſci Signor, gli'humil miei preghi.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Arken Lord vnto mine humble Playnings, Hide not thy face for euer in thine Anger: My Dayes doe vade, doe vade as Smoak, as Smoak, My hart in Langor, Hyes (flyes) to thee, Why Shun'ſt thou my Complaynings? Hyes (flyes) to thee, why ſhun'ſt thou my Complaynings? Friends haue I none, now from mee All are flying: In ſtead of Bread, I haue ben fed with Aſhes: My Drinck my Tear's; While I haue felt the Laſhes, Of thy fierce Wrath, For all mine often Cryings.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="18" facs="tcp:5407:70"/>
+                     <head>Of 6. voc. Second part. BASSVS. <hi>Sarà ogni Rè, ogni Popolo.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">A</seg>LL Kings and Nati'ons, ſhall admi'er, admi╌er thy Glo╌ry, When thou the Sighs, the Sighs of humble Soules attendeſt; It ſhal be Writ, in an Eternall Sto╌rie; It ſhall be Writ, It ſhall be Writ, in an Eternall Story. in an Eternall Story. Ah Leaue me not thou; Thou that All Defendeſt: That madeſt All, That madeſt All, (Heau'n, Earth, and Oce'an, and Oce'an hoary) That neuer didſt Begin, and neuer Endeſt. and neuer Endeſt.</p>
+                  </div>
+               </div>
+               <div n="6" type="sonnet">
+                  <pb n="19" facs="tcp:5407:70"/>
+                  <head>SIXT SONNET</head>
+                  <bibl>Ex Pſal. 102</bibl>
+                  <lg>
+                     <l>FRom profound CENTER of my hart I cryed</l>
+                     <l>To thee O Lord, LORD let thine EARE draw neer mee,</l>
+                     <l>To note my MOVRNINGS, and quick-quickly heare mee;</l>
+                     <l>Heare my Sad GRONES, to thy Sweet GRACE applyed.</l>
+                     <l>LORD, if thou looke with RIGOVR downe into VS,</l>
+                     <l>To mark our SIN, O who ſhall then abide it?</l>
+                     <l>But, if with PARDON thou bee pleas'd to hide it</l>
+                     <l>(If MERCY thou Vouchſafe) What ſhall Vndoo VS?</l>
+                     <l>Vpon thy WORD my SOVLE hath firmly reared</l>
+                     <l>Her Tower of TRVST, there is my HOPE poſseſsed;</l>
+                     <l>With thee is MERCY, that thou maiſt bee feared;</l>
+                     <l>MERCY, for thoſe that are in SOVLE depreſsed.</l>
+                     <l>ISRAELS Redeemer, Whom thou haſt endeered</l>
+                     <l>Beecom's through thee, of SINNER, SAINT, and BLESSED.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="20" facs="tcp:5407:71"/>
+                     <head>Of 6. voc. Firſt part. BASSVS. <hi>Dal profondo del core.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">F</seg>Rom Profound Center of my hart, to thee I cri'ed, to thee I cri'ed O Lord, Lord let thine eare draw neere me, To note my mourning; To note my mourning, and quickly heare mee: and quickly heare mee: Heare my Sad Grones to thy Sweet Grace applyed. to thy Sweet Grace apply'ed. Lord, if thou looke with Rigor down into vs, to mark our Sins, O who ſhall then abide it? abide it? But if thou be pleaſed, But if with pardon thou be pleas'd to hide it, (if thou Mercie vouchſafe, if thou Mercy vouch<g ref="char:EOLhyphen"/>ſafe) What ſhal vndoo vs? what ſhal vndoo vs? what ſhal vndoo vs? what ſhall vndoo vs?</p>
+                  </div>
+                  <div type="song">
+                     <pb n="21" facs="tcp:5407:71"/>
+                     <head>Of 6. voc. Second part. BASSVS. <hi>Ne la parola <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">V</seg>Pon thy Word my Soule, hath firmely reared: hath firmely reared: hath firmely reared her Tower of Truſt; There is my Hope poſſeſſed; For with thee is Mercy, that thou maiſt be feared; Mercy, for thoſe in Soule depreſſed. in Soule depreſſed, Iſ╌ra╌els Redeemer, Iſ╌ra╌els Redeemer: Whom thou haſt endeered, Becom's through thee, of Sinner, Saint and Bleſſed. and Bleſſed. of Sinner, Saint and Bleſſed. and Bleſſed. of Sinner, Saint and Bleſſed. of Sinner, Saint and Bleſſed.</p>
+                  </div>
+               </div>
+               <div n="7" type="sonnet">
+                  <pb n="22" facs="tcp:5407:72"/>
+                  <head>SEAVENTH SONNET</head>
+                  <bibl>Ex Pſal. 143</bibl>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Iſten O LORD vnto my Proſtrate PRAYER,</l>
+                     <l>Nor into IVDGMENT with thy Seruant enter:</l>
+                     <l>For who is IVST? The foule infernall TEMPTER</l>
+                     <l>Purſues my SOVLE with Terrors of DESPAYRE.</l>
+                     <l>My hart's all inly Vext. Yet I apply'd mee</l>
+                     <l>To waigh thy Works, thy Wonders I obſerued,</l>
+                     <l>But to thy MERCY the Chiefe place reſerued;</l>
+                     <l>Then Shew my SIN, and in thy Seruice guide mee.</l>
+                     <l>Succour mee LORD, Saue mee with expedition;</l>
+                     <l>My SPIRIT fainteth: therefore mine affection,</l>
+                     <l>My MINDE, my SOVLE, I lift (with all Submiſsion)</l>
+                     <l>To thee my LORD, my GOD, and my protection:</l>
+                     <l>Draw mee from DANGER vnder thy Tuition,</l>
+                     <l>For I thy Seruant am by thine Election.</l>
+                  </lg>
+                  <div type="song">
+                     <pb n="23" facs="tcp:5407:72"/>
+                     <head>Of 6 voc. Firſt part. BASSVS. <hi>Eſſaudiſci Signor le mie.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Iſten, Liſten O Lord vnto my Proſtrate prayer, Nor into Iudgment with thy Seruant enter: For who, O who is Iuſt? For who, O who is Iuſt? The foule In╌fernall Tempter purſues my Soule with terrors, with terrors of Deſpay'r. My hart's all inly vexed: My hart's all inly vexed: all inly vexed: Yet I apply'd me to waigh thy Works, thy Wonders I ob<g ref="char:EOLhyphen"/>ſerued, But to thy Mercy, But to thy Mercy the Chief place reſerued: the Chief place, the Chief place reſerued: Then Shew my Sin, my Sin, Then ſhew my Sin, Then ſhew my Sin, my Sin, Then ſhew my Sin, and in thy Seruice guide me.</p>
+                  </div>
+                  <div type="song">
+                     <pb n="24" facs="tcp:5407:73"/>
+                     <head>Of 6. voc. Second part. BASSVS <hi>Socorrimi Signor.</hi>
+                     </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Vccour me Lord, Saue mee, ſaue mee with expe<g ref="char:EOLhyphen"/>diti'on, with expe╌di╌ti'on, My Spirit fainteth, therfore mine af<g ref="char:EOLhyphen"/>fecti'on, My Spirit fainteth, therefore mine affecti'on, My Minde, my Soule I lift with all Submiſsi'on, To thee my Lord, my God, my God, and my Protec<g ref="char:EOLhyphen"/>ti'on: and my Protecti'on: Draw me from Danger vnder thy Tu╌i╌ti'on; Draw me from Danger vnder thy Tu╌i╌ti'on; For I thy Seruant am, For I thy Seruant am by thine Electi'on. by thine, by thine Electi'on. by thine Electi'on.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:5407:73"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
